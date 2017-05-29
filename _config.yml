@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alexandra Paxton"
 title_separator          : "-"
 name                     : &name "Alexandra Paxton"
-description              : &description "personal description"
+description              : I'm a postdoc working with Tom Griffiths and a Moore-Sloan Data Science Fellow at the Berkeley Institute for Data Science.
 url                      : https://a-paxton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "a-paxton/a-paxton.github.io"
