@@ -7,6 +7,3 @@ venue: 'Quarterly Journal of Experimental Psychology'
 paperurl: 'http://a-paxton.github.io/files/2013-paxton_dale-qjep.pdf'
 citation: 'Paxton, A., & Dale, R. (2013). Argument disrupts interpersonal synchrony. <i>Quarterly Journal of Experimental Psychology</i>, <i>66</i>(11), 2092-2102.'
 ---
-<!-- Recommended citation: <b>Paxton, A.</b>, & Dale, R. (2013). Argument disrupts interpersonal synchrony. <i>Quarterly Journal of Experimental Psychology</i>, <i>66</i>(11), 2092-2102.
-
-[Download paper here](http://a-paxton.github.io/files/2013-paxton_dale-qjep.pdf). Downloads are provided for personal use only. -->
