@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Alexandra Paxton"
 title_separator          : "-"
 name                     : &name "Alexandra Paxton"
-description              : I'm a postdoc working with Tom Griffiths and a Moore-Sloan Data Science Fellow at the Berkeley Institute for Data Science.
+description              : &description "Alexandra Paxton"
 url                      : https://a-paxton.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "a-paxton/a-paxton.github.io"
@@ -79,7 +79,7 @@ analytics:
 author:
   name             : "Alexandra Paxton"
   avatar           : "https://s.gravatar.com/avatar/5e2457040de7f89e82f9f862bb681e64?s=80"
-  bio              : "I'm a postdoctoral scholar working with Tom Griffiths and a data science fellow at the Berkeley Institute for Data Science."
+  bio              : "I'm a postdoctoral scholar working with Tom Griffiths and a Moore-Sloan Data Science Fellow at the Berkeley Institute for Data Science."
   location         : "University of California, Berkeley"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=YRWfuEIAAAAJ&hl=en"
