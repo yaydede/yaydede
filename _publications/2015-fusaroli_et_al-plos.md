@@ -7,4 +7,4 @@ venue: 'PLOS ONE'
 paperurl: 'http://a-paxton.github.io/files/fusaroli_et_al-2015-plos.pdf'
 citation: 'Fusaroli, R., Perlman, M., Mislove, A., <b>Paxton, A.</b>, Matlock, T., & Dale, R. (2015). Timescales of massive human entrainment. <i>PLOS ONE</i>, <i>10</i>(4), e0122742.'
 ---
-[Download paper here](http://a-paxton.github.io/files/fusaroli_et_al-2015-plos.pdf). Downloads are provided for personal use only.
+<!-- [Download paper here](http://a-paxton.github.io/files/fusaroli_et_al-2015-plos.pdf). Downloads are provided for personal use only. -->
