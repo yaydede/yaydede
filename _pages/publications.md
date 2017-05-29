@@ -5,11 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
-Mentees’ names underlined. Asterisk indicates dual first-author position. **Articles provided for personal use only.
+Mentees’ names underlined. Asterisk indicates dual first-author position. **Articles provided for personal use only.**
 
-{% if author.googlescholar %}
+You can also find my articles on <u><a href="https://scholar.google.com/citations?user=YRWfuEIAAAAJ&hl=en&oi=sra">my Google Scholar profile</a>.</u>
+
+<!-- {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+{% endif %} -->
 
 {% include base_path %}
 
