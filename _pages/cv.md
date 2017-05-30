@@ -18,20 +18,20 @@ December 2015
 Employment
 ======
 August 2018
-Assistant Professor
-Department of Psychological Sciences
-University of Connecticut
+<br>Assistant Professor
+<br>Department of Psychological Sciences
+<br>University of Connecticut
 
 August 2016 – *present*
-Moore-Sloan Data Science Fellow
-Berkeley Institute for Data Science
-University of California, Berkeley
+<br>Moore-Sloan Data Science Fellow
+<br>Berkeley Institute for Data Science
+<br>University of California, Berkeley
 
 January 2016 – *present*
-Postdoctoral Scholar
-Center for Data on the Mind
-Institute of Cognitive and Brain Sciences
-University of California, Berkeley
+<br>Postdoctoral Scholar
+<br>Center for Data on the Mind
+<br>Institute of Cognitive and Brain Sciences
+<br>University of California, Berkeley
 
 Peer-Reviewed Journal Publications
 ======
