@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 Ph.D., Cognitive and Information Sciences
-University of California, Merced
-December 2015
+<br>University of California, Merced
+<br>December 2015
 
 Employment
 ======
