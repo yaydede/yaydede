@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,49 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+Ph.D., Cognitive and Information Sciences
+University of California, Merced
+December 2015
 
-Work experience
+Employment
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+August 2018
+Assistant Professor
+Department of Psychological Sciences
+University of Connecticut
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+August 2016 – *present*
+Moore-Sloan Data Science Fellow
+Berkeley Institute for Data Science
+University of California, Berkeley
 
-Publications
+January 2016 – *present*
+Postdoctoral Scholar
+Center for Data on the Mind
+Institute of Cognitive and Brain Sciences
+University of California, Berkeley
+
+Peer-Reviewed Journal Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+{% for post in site.publications %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+{% for post in site.talks %}
+  {% include archive-single-talk-cv.html %}
+{% endfor %}
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+{% for post in site.teaching %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
