@@ -35,10 +35,9 @@ January 2016 – *present*
 
 Peer-Reviewed Journal Publications
 ======
-{% for post in site.publications %}
+{% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
-{: reversed="reversed"}
 
 <!-- Talks
 ======
