@@ -38,8 +38,9 @@ Peer-Reviewed Journal Publications
 {% for post in site.publications %}
   {% include archive-single-cv.html %}
 {% endfor %}
+{: reversed="reversed"}
 
-Talks
+<!-- Talks
 ======
 {% for post in site.talks %}
   {% include archive-single-talk-cv.html %}
@@ -49,8 +50,4 @@ Teaching
 ======
 {% for post in site.teaching %}
   {% include archive-single-cv.html %}
-{% endfor %}
-
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+{% endfor %} -->
