@@ -36,6 +36,16 @@ Ph.D., Cognitive and Information Sciences
 </tbody>
 </table>
 
+| Header1 | Header2 | Header3 |
+|:--------|:-------:|--------:|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|---------|---------|---------|
+| cell1   | cell2   | cell3   |
+| cell4   | cell5   | cell6   |
+|=========|=========|========|
+| Foot1   | Foot2   | Foot3   |
+
 August 2018
 <br>Assistant Professor
 <br>Department of Psychological Sciences
