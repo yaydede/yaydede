@@ -16,17 +16,32 @@ redirect_from:
 |:----------------------- |--------------------------------------|
 | December 2015 | Ph.D., Cognitive and Information Sciences<br>University of California, Merced| -->
 
-December 2015
-<br>Ph.D., Cognitive and Information Sciences
+**Ph.D., Cognitive and Information Sciences**
 <br>University of California, Merced
+<br>August 2011 - December 2015
 
 ## Employment
 
-|                         |                                      |
+<!-- |                         |                                      |
 |:----------------------- |--------------------------------------|
 | August 2018 (*to begin*) | Assistant Professor<br>Department of Psychological Sciences<br>University of Connecticut|
 | August 2016 - *present* | Moore-Sloan Data Science Fellow<br>Berkeley Institute for Data Science<br>University of California, Berkeley|
-| January 2016 – *present* | Postdoctoral Scholar<br>Institute of Cognitive and Brain Sciences<br>University of California, Berkeley|
+| January 2016 – *present* | Postdoctoral Scholar<br>Institute of Cognitive and Brain Sciences<br>University of California, Berkeley| -->
+
+**Assistant Professor**
+<br>Department of Psychological Sciences
+<br>University of Connecticut
+<br>*August 2018 (to begin)*
+
+**Moore-Sloan Data Science Fellow**
+<br>Berkeley Institute for Data Science
+<br>University of California, Berkeley
+<br>*August 2016 - present*
+
+**Postdoctoral Scholar**
+<br>Institute of Cognitive and Brain Sciences
+<br>University of California, Berkeley
+<br>*January 2016 – present*
 
 ## Peer-Reviewed Journal Publications
 
