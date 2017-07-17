@@ -22,6 +22,7 @@
     .over:hover {
       opacity: 1;
       transition: opacity 0.3s;
+    }
   }
 
   @include breakpoint($x-large) {
