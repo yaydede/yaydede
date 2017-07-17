@@ -1,5 +1,5 @@
 ---
-title: "Communicative efficiency and miscommunication: The costs and benefits of variable language production"
+title: "Leveraging linguistic content and debater traits to predict debate outcomes"
 collection: proceedings
 permalink: /proceedings/2014-paxton_dale-cogsci
 paperurl:
