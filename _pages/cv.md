@@ -15,10 +15,10 @@ Ph.D., Cognitive and Information Sciences
 <br>December 2015
 
 ## Employment
-<table>
+<table cellspacing="0" cellpadding="0">
 <colgroup>
-<col width="40%" />
-<col width="60%" />
+<col width="20%" />
+<col width="80%" />
 </colgroup>
 <tbody>
 <tr>
