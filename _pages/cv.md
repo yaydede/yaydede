@@ -39,6 +39,12 @@ Peer-Reviewed Journal Publications
   {% include archive-single-cv.html %}
 {% endfor %}
 
+Refereed Conference Proceedings
+======
+{% for post in site.proceedings reversed %}
+  {% include archive-single-cv.html %}
+{% endfor %}
+
 <!-- Talks
 ======
 {% for post in site.talks %}
