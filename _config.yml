@@ -220,6 +220,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _proceedings
+  - scope:
+      path: ""
+      type: proceedings
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""
