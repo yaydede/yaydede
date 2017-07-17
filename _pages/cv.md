@@ -15,52 +15,12 @@ Ph.D., Cognitive and Information Sciences
 <br>December 2015
 
 ## Employment
-<table cellspacing="0" cellpadding="0">
-<colgroup>
-<col width="20%" />
-<col width="80%" />
-</colgroup>
-<tbody>
-<tr>
-<td markdown="span" valign="top">August 2018</td>
-<td markdown="span" valign="top">Assistant Professor</td>
-</tr>
-<tr>
-<td markdown="span" valign="top">(*to begin*)</td>
-<td markdown="span" valign="top">Department of Psychological Sciences</td>
-</tr>
-<tr>
-<td markdown="span" valign="top"></td>
-<td markdown="span" valign="top">University of Connecticut</td>
-</tr>
-</tbody>
-</table>
 
-| Header1 | Header2 | Header3 |
-|:--------|:-------:|--------:|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|---------|---------|---------|
-| cell1   | cell2   | cell3   |
-| cell4   | cell5   | cell6   |
-|=========|=========|========|
-| Foot1   | Foot2   | Foot3   |
-
-August 2018
-<br>Assistant Professor
-<br>Department of Psychological Sciences
-<br>University of Connecticut
-
-August 2016 – *present*
-<br>Moore-Sloan Data Science Fellow
-<br>Berkeley Institute for Data Science
-<br>University of California, Berkeley
-
-January 2016 – *present*
-<br>Postdoctoral Scholar
-<br>Center for Data on the Mind
-<br>Institute of Cognitive and Brain Sciences
-<br>University of California, Berkeley
+|                         |                                      |
+|:----------------------- |--------------------------------------|
+| August 2018 (*to begin*) | Department of Psychological Sciences<br>University of Connecticut|
+| August 2016 - *present* | Moore-Sloan Data Science Fellow<br>Berkeley Institute for Data Science<br>University of California, Berkeley|
+| January 2016 – *present* | Postdoctoral Scholar<br>Institute of Cognitive and Brain Sciences<br>University of California, Berkeley|
 
 ## Peer-Reviewed Journal Publications
 {% for post in site.publications reversed %}
