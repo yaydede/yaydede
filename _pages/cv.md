@@ -12,9 +12,13 @@ redirect_from:
 
 ## Education
 
-|                         |                                      |
+<!-- |                         |                                      |
 |:----------------------- |--------------------------------------|
-| December 2015 | Ph.D., Cognitive and Information Sciences<br>University of California, Merced|
+| December 2015 | Ph.D., Cognitive and Information Sciences<br>University of California, Merced| -->
+
+December 2015
+<br>Ph.D., Cognitive and Information Sciences
+<br>University of California, Merced
 
 ## Employment
 
