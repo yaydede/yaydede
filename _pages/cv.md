@@ -18,7 +18,7 @@ redirect_from:
 
 **Ph.D., Cognitive and Information Sciences**
 <br>University of California, Merced
-<br>August 2011 - December 2015
+<br>*August 2011 - December 2015*
 
 ## Employment
 
