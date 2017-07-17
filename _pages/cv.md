@@ -24,11 +24,17 @@ redirect_from:
 | January 2016 – *present* | Postdoctoral Scholar<br>Institute of Cognitive and Brain Sciences<br>University of California, Berkeley|
 
 ## Peer-Reviewed Journal Publications
+
+Mentees’ names underlined. Asterisk indicates dual first-author position. Open access articles (indicated by <i class="ai ai-open-access-square" aria-hidden="true"></i>) are linked below; all other PDFs (indicated by <i class="fa fa-file-pdf-o" aria-hidden="true"></i>) are provided for **personal use only.** Supplementary materials on GitHub (<i class="fa fa-github" aria-hidden="true"></i>) and OSF (<i class="ai ai-osf" aria-hidden="true"></i>) for each publication are linked below the citation.
+
 {% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
 
 ## Refereed Conference Proceedings
+
+Mentees’ names underlined. Asterisk indicates dual first-author position. Open access articles (indicated by <i class="ai ai-open-access-square" aria-hidden="true"></i>) are linked below; all other PDFs (indicated by <i class="fa fa-file-pdf-o" aria-hidden="true"></i>) are provided for **personal use only.** Supplementary materials on GitHub (<i class="fa fa-github" aria-hidden="true"></i>) and OSF (<i class="ai ai-osf" aria-hidden="true"></i>) for each publication are linked below the citation.
+
 {% for post in site.proceedings reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
