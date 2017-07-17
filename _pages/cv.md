@@ -15,10 +15,9 @@ Ph.D., Cognitive and Information Sciences
 <br>December 2015
 
 ## Employment
-| ------------- | ------------------------------------ |
-| August 2018   | Assistant Professor                  |
-| (*to begin*)  | Department of Psychological Sciences |
-|               | University of Connecticut            |
+| August 2018 | Assistant Professor |
+| (*to begin*) | Department of Psychological Sciences |
+| | University of Connecticut |
 
 August 2018
 <br>Assistant Professor
