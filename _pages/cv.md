@@ -15,7 +15,7 @@ Ph.D., Cognitive and Information Sciences
 <br>December 2015
 
 ## Employment
-<table border="0" >
+<table>
 <colgroup>
 <col width="40%" />
 <col width="60%" />
@@ -27,7 +27,7 @@ Ph.D., Cognitive and Information Sciences
 </tr>
 <tr>
 <td markdown="span" valign="top">(*to begin*)</td>
-<td markdown="span"valign="top">Department of Psychological Sciences</td>
+<td markdown="span" valign="top">Department of Psychological Sciences</td>
 </tr>
 <tr>
 <td markdown="span" valign="top"></td>
