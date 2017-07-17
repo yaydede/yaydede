@@ -39,13 +39,13 @@
     <!-- {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %} -->
     <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}
     {% if post.paperurl != blank %}
-      <a href="{{ post.paperurl }}" rel="permalink"> *[PDF]* </a>
+      <a href="{{ post.paperurl }}" rel="permalink"> <b>[PDF]</b> </a>
     {% endif %}
     {% if post.githuburl != blank %}
-      <a href="{{ post.githuburl }}" rel="permalink"> *[GitHub]* </a>
+      <a href="{{ post.githuburl }}" rel="permalink"> <b>[GitHub]</b> </a>
     {% endif %}
     {% if post.osfurl != blank %}
-      <a href="{{ post.osfurl }}" rel="permalink"> *[OSF]* </a>
+      <a href="{{ post.osfurl }}" rel="permalink"> <b>[OSF]</b> </a>
     {% endif %}
     </p>
     <!-- </li> -->
