@@ -30,5 +30,5 @@ redirect_from:
 
 ## Refereed Conference Proceedings
 {% for post in site.proceedings reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-cv.html %}
 {% endfor %}
