@@ -37,13 +37,15 @@
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %} -->
     <!-- {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %} -->
-    <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}>
-      <a href="{{ base_path }}{{ post.url }}" rel="permalink">[PDF]</a>
+    <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}
+    {% if post.paperurl != blank %}
+      <a href="{{ post.paperurl }}" rel="permalink"> *[PDF]* </a>
+    {% endif %}
     {% if post.githuburl != blank %}
-      <p><a href="{{ post.githuburl }}" rel="permalink">[GitHub]</a></p>
+      <a href="{{ post.githuburl }}" rel="permalink"> *[GitHub]* </a>
     {% endif %}
     {% if post.osfurl != blank %}
-      <p><a href="{{ post.osfurl }}" rel="permalink">[OSF]</a></p>
+      <a href="{{ post.osfurl }}" rel="permalink"> *[OSF]* </a>
     {% endif %}
     </p>
     <!-- </li> -->
