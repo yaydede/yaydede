@@ -38,13 +38,13 @@
     {% endif %} -->
     <!-- {% if post.venue%}<p class="archive__item-excerpt" itemprop="description">{{ post.citation }}</p> {% endif %} -->
     <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}
-    {% if post.paperurl != blank %}
+    {% if post.paperurl %}
       <a href="{{ post.paperurl }}" rel="permalink"> <b>[PDF]</b> </a>
     {% endif %}
-    {% if post.githuburl != blank %}
+    {% if post.githuburl %}
       <a href="{{ post.githuburl }}" rel="permalink"> <b>[GitHub]</b> </a>
     {% endif %}
-    {% if post.osfurl != blank %}
+    {% if post.osfurl %}
       <a href="{{ post.osfurl }}" rel="permalink"> <b>[OSF]</b> </a>
     {% endif %}
     </p>
