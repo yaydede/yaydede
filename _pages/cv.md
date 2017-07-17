@@ -9,14 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
+## Education
 Ph.D., Cognitive and Information Sciences
 <br>University of California, Merced
 <br>December 2015
 
-Employment
-======
+## Employment
+| ------------- | ------------------------------------ |
+| August 2018   | Assistant Professor                  |
+| (*to begin*)  | Department of Psychological Sciences |
+|               | University of Connecticut            |
+
 August 2018
 <br>Assistant Professor
 <br>Department of Psychological Sciences
@@ -33,26 +36,12 @@ January 2016 – *present*
 <br>Institute of Cognitive and Brain Sciences
 <br>University of California, Berkeley
 
-Peer-Reviewed Journal Publications
-======
+## Peer-Reviewed Journal Publications
 {% for post in site.publications reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
 
-Refereed Conference Proceedings
-======
+## Refereed Conference Proceedings
 {% for post in site.proceedings reversed %}
-  {% include archive-single-cv.html %}
+  {% include archive-single.html %}
 {% endfor %}
-
-<!-- Talks
-======
-{% for post in site.talks %}
-  {% include archive-single-talk-cv.html %}
-{% endfor %}
-
-Teaching
-======
-{% for post in site.teaching %}
-  {% include archive-single-cv.html %}
-{% endfor %} -->
