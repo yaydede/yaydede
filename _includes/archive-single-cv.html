@@ -28,13 +28,13 @@
     <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}
     <br>
     {% if post.paperurl %}
-      <a href="{{ post.paperurl }}" rel="permalink"> <b>[PDF]</b> </a>
+      <a href="{{ post.paperurl }}" rel="permalink"><i class="fa fa-file-pdf-o" aria-hidden="true"></i></a>
     {% endif %}
     {% if post.githuburl %}
-      <a href="{{ post.githuburl }}" rel="permalink"> <b>[GitHub]</b> </a>
+      <a href="{{ post.githuburl }}" rel="permalink"><i class="fa fa-github" aria-hidden="true"></i></a>
     {% endif %}
     {% if post.osfurl %}
-      <a href="{{ post.osfurl }}" rel="permalink"> <b>[OSF]</b> </a>
+      <a href="{{ post.osfurl }}" rel="permalink"> <i class="ai ai-osf-square ai-3x"></i> </a>
     {% endif %}
     </p>
  </article>
