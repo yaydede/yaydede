@@ -19,9 +19,9 @@
     // &:hover {
     //   opacity: 1;
     // }
-    .over {
-      opacity: 1;
-      transition: opacity 0.3s;
+    .over:hover {
+      // opacity: 1;
+      transition: opacity 0.2s;
     }
   }
 
