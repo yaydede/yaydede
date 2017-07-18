@@ -106,6 +106,9 @@
       {% if author.orcid %}
         <li><a href="{{ author.orcid }}"><i class="ai ai-orcid ai-fw fa-2x"></i> ORCID</a></li>
       {% endif %}
+      {% if author.osf %}
+        <li><a href="https://osf.io/{{ author.osf }}"><i class="ai ai-osf ai-fw fa-2x"></i> OSF</a></li>
+      {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fa fa-fw fa-chain fa-2x" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
