@@ -27,7 +27,7 @@ redirect_from:
 <br>University of California, Berkeley
 <br><i>August 2016 - present</i></p>
 
-<p style="margin-left: 40px">**Postdoctoral Scholar**
+<p style="margin-left: 40px"><b>Postdoctoral Scholar</b>
 <br>Institute of Cognitive and Brain Sciences
 <br>University of California, Berkeley
 <br><i>January 2016 – present</i></p>
