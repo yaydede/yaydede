@@ -9,12 +9,12 @@ author_profile: true
 
 ## Supplementary materials for researchers
 
-{% for post in site.miscellany reversed %}
-  {% include archive-single-cv.html %}
+{% for post in site.supplementary reversed %}
+  {% include archive-single.html %}
 {% endfor %}
 
 ## Resources and support
 
-{% for post in site.researcher_resources reversed %}
-  {% include archive-single-cv.html %}
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
 {% endfor %}
