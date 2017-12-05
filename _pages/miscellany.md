@@ -9,7 +9,7 @@ author_profile: true
 
 ## Supplementary materials for researchers
 
-{% for post in site.supplementary reversed %}
+{% for post in site.miscellany reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
 
