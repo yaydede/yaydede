@@ -10,22 +10,20 @@ redirect_from:
 
 {% include base_path %}
 
-## Data-rich human communication
-
-As a cognitive scientist and data scientist, I take a data-rich approach to
-understanding how people work together, bond together, and fight together. To
-do that, I combine a variety of data sources from the lab and the real world to
-create a converging picture of the many ways in which our language, movement,
+As a cognitive scientist and data scientist, I take a **data-rich approach** to
+understanding **how people collaborate, bond, and fight**. To do that, I
+weave together a **variety of data sources from the lab and the real world**
+for a converging tapestry of the many ways in which our language, movement,
 decisions, and emotions change during social contact. Understanding how context
 ---including conversational goals, social connections, and physical spaces---
 shape our emerging behaviors is a primary goal of my research, embedded
-within rich traditions of dynamical and ecological perspectives on human
+within **rich traditions of dynamical and ecological perspectives** on human
 behavior and cognition broadly.
 
-I'm also interested in developing methods to quantify social interaction,
-promoting open science research and education, and creating opportunities for
-cognitive scientists and psychologists who are interested in big data and
-data science.
+I'm also interested in **developing methods** to quantify social interaction,
+promoting **open science** research and education, and creating opportunities
+for cognitive scientists and psychologists who are interested in **big data,
+naturally occurring data, and data science**.
 
 ## About me
 
@@ -46,5 +44,5 @@ division](https://psych.uconn.edu/perception-action-cognition-division/).**
 ## Some recent work
 
 {% for post in site.recent reversed %}
-  {% include archive-single-cv.html %}
+  {% include archive-recent.html %}
 {% endfor %}
