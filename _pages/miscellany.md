@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 
 Here's some additional information from various publications. Click on the
-relational operator (<b><font size="+3">∼</font></b>) to access the additional
+relational operator (<b>∼</b>) to access the additional
 information. Links to the relevant paper (either open-access
 <i class="ai ai-fw ai-open-access-square"></i> or not
 <i class="fa fa-file-pdf-o" aria-hidden="true"></i>; provided for **personal
