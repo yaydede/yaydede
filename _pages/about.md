@@ -45,6 +45,6 @@ division](https://psych.uconn.edu/perception-action-cognition-division/).
 
 ## Some recent work
 
-{% for post in site.recent reversed %}
+{% for post in site.recent %}
   {% include archive-recent.html %}
 {% endfor %}
