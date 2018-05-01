@@ -9,12 +9,8 @@ author_profile: true
 
 ## Supplementary materials for researchers
 
-{% for post in site.supplementary reversed %}
+{% for post in site.talks %}
   {% include archive-single.html %}
 {% endfor %}
 
 ## Resources and support
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
