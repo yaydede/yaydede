@@ -7,7 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-Here are a few
+Here are a few of the community resources that I've helped develop. Click on
+the project description to check out the resource. Additional information
+related to the project are available in the thumbnails below the description,
+including related information (<b>∼</b>), open-access publications
+(<i class="ai ai-fw ai-open-access-square"></i>), non-OA publications (available
+for *personal use only*, <i class="fa fa-file-pdf-o" aria-hidden="true"></i>),
+GitHub repositories (<i class="fa fa-github" aria-hidden="true"></i>), and OSF
+projects (<i class="ai ai-fw ai-osf"></i>).
 
 {% for post in site.resources reversed %}
   {% include archive-resource.html %}
