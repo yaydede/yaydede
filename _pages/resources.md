@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "Researcher resources"
+title: "Community resources"
 permalink: /resources/
 author_profile: true
 ---
 
 {% include base_path %}
 
-{% for post in site.researcher_resources reversed %}
+{% for post in site.resources reversed %}
   {% include archive-single-cv.html %}
 {% endfor %}
