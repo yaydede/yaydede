@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+Here are a few
+
 {% for post in site.resources reversed %}
-  {% include archive-single-cv.html %}
+  {% include archive-resource.html %}
 {% endfor %}
