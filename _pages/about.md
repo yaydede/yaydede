@@ -36,12 +36,12 @@ at the [University of California, Berkeley](http://www.berkeley.edu/)
 and a [Moore-Sloan Data Science Fellow](http://msdse.org/)
 at the [Berkeley Institute for Data Science](http://bids.berkeley.edu/).
 
-**In August 2018, I'll be joining the
+In August 2018, I'll be joining the
 [University of Connecticut](https://uconn.edu/)’s
 [Department of Psychological Sciences](https://psych.uconn.edu/) as an
 Assistant Professor of Ecological Psychology within the [Perception, Action,
 Cognition
-division](https://psych.uconn.edu/perception-action-cognition-division/).**
+division](https://psych.uconn.edu/perception-action-cognition-division/).
 
 ## Some recent work
 
