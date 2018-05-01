@@ -31,9 +31,9 @@ I'm currently a postdoctoral scholar working with Tom Griffiths in the
 Institute of Cognitive and Brain Sciences and a Moore-Sloan Data Science Fellow
 in the Berkeley Institute for Data Science.
 
-In August 2018, I'll be joining the University of Connecticut’s Department of
+*In August 2018, I'll be joining the University of Connecticut’s Department of
 Psychological Sciences as an Assistant Professor of Ecological Psychology
-within the Perception, Action, Cognition division.
+within the Perception, Action, Cognition division.*
 
 <!-- When we interact, we influence one another in subtle ways. Our individual behavioral signatures — the way we move, speak, and feel — start to become interconnected. We even recognize this colloquially:  People talk about how infectious smiles can be or how a yawn can spread through a room. -->
 
