@@ -11,8 +11,8 @@ Here are a few of the community resources that I've helped develop. Click on
 the project description to check out the resource. Additional information
 related to the project are available in the thumbnails below the description,
 including open-access publications (<i class="ai ai-fw ai-open-access-square">
-</i>), non-OA publications (available for *personal use only*,
-<i class="fa fa-file-pdf-o" aria-hidden="true"></i>), GitHub repositories
+</i>), non-OA publications (<i class="fa fa-file-pdf-o" aria-hidden="true">
+</i>; available for *personal use only*), GitHub repositories
 (<i class="fa fa-github" aria-hidden="true"></i>), OSF projects
 (<i class="ai ai-fw ai-osf"></i>), and miscellaneous information (<b>∼</b>).
 
