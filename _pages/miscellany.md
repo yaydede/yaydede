@@ -9,7 +9,7 @@ author_profile: true
 
 ## Supplementary materials for researchers
 
-{% for post in site.talks %}
+{% for post in site.miscellany %}
   {% include archive-single.html %}
 {% endfor %}
 
