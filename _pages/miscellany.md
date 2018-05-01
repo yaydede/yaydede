@@ -10,7 +10,7 @@ author_profile: true
 ## Supplementary materials for researchers
 
 {% for post in site.miscellany %}
-  {% include archive-single.html %}
+  {% include archive-single-cv.html %}
 {% endfor %}
 
 ## Resources and support
