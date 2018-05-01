@@ -16,6 +16,6 @@ including open-access publications (<i class="ai ai-fw ai-open-access-square">
 (<i class="fa fa-github" aria-hidden="true"></i>), OSF projects
 (<i class="ai ai-fw ai-osf"></i>), and miscellaneous information (<b>∼</b>).
 
-{% for post in site.resources reversed %}
+{% for post in site.resources%}
   {% include archive-resource.html %}
 {% endfor %}
