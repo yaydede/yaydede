@@ -6,5 +6,4 @@ permalink: /miscellany/miscellany-2013_tollefsen_dale_paxton
 paperurl: 'http://a-paxton.github.io/files/tollefsen_paxton_dale-2013-rpp.pdf'
 relatedurl: 'http://alexandrapaxton.com/wp-content/uploads/2013/04/Tollefsen_Dale_Paxton-Figure.png'
 githuburl: 'https://github.com/a-paxton/plotting-coupled-data'
-
 ---
