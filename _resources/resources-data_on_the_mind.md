@@ -1,8 +1,9 @@
 ---
-title: "Frame-differencing methods for measuring bodily synchrony in conversation"
+title: "Data on the Mind"
 collection: resources
-permalink: /resources/2013-paxton_dale-brm
-paperurl: 'http://a-paxton.github.io/files/paxton_dale-2013-brm.pdf'
-citation: '<b>Paxton, A.</b>, & Dale, R. (2013). Frame-differencing methods for measuring bodily synchrony in conversation. <i>Behavior Research Methods</i>, <i>45</i>(2), 329-343.'
-githuburl: 'http://github.com/a-paxton/fdm'
+permalink: /resources/data_on_the_mind
+resourceurl: 'http://dataonthemind.org'
+citation: '<b>Data on the Mind</b>. A community resource dedicated to helping
+bridge the gaps between big data and cognitive science.'
+oa_paperurl: 'https://link.springer.com/article/10.3758/s13428-017-0874-x'
 ---
