@@ -10,6 +10,8 @@ redirect_from:
 
 {% include base_path %}
 
+## Data-rich human communication
+
 As a cognitive scientist and data scientist, I take a **data-rich approach** to
 understanding **how people collaborate, bond, and fight**. To do that, I
 weave together a **variety of data sources from the lab and the real world**
