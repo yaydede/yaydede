@@ -19,7 +19,7 @@
   {% assign collection = post.collection %}
 {% endif %}
 
-<div class="{{ include.type | default: "list" }}__item" style="padding-left: 40px; text-indent: -20px ;">
+<div class="{{ include.type | default: "list" }}__item" style="margin-left: 40px;">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
     <!-- Add teaser, if we have it -->
@@ -39,7 +39,7 @@
     <p class="archive__item-excerpt" itemprop="description">
 
     <!-- Add symbol for publication collection -->
-    {% if collection == "publications" %}
+    <!-- {% if collection == "publications" %}
       <i class="fa fa-align-left"></i>
     {% endif %}
     {% if collection == "proceedings" %}
@@ -47,7 +47,7 @@
     {% endif %}
     {% if collection == "chapter" %}
       <i class="fa fa-bookmark"></i>
-    {% endif %}
+    {% endif %} -->
 
     <!-- Deliver citation -->
     {{ post.citation }}
