@@ -1,19 +1,28 @@
 {% include base_path %}
 
+<!-- Grab teaser, if we have it -->
 {% if post.header.teaser %}
   {% capture teaser %}{{ post.header.teaser }}{% endcapture %}
 {% else %}
   {% assign teaser = site.teaser %}
 {% endif %}
 
+<!-- Identify the post title from the ID field -->
 {% if post.id %}
   {% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
 {% else %}
   {% assign title = post.title %}
 {% endif %}
 
+<!-- Figure out what symbol we need -->
+{% if post.collection %}
+  {% assign collection = post.collection %}
+{% endif %}
+
 <div class="{{ include.type | default: "list" }}__item" style="margin-left: 40px">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <!-- Add teaser, if we have it -->
     {% if include.type == "grid" and teaser %}
       <div class="archive__item-teaser">
         <img src=
@@ -25,8 +34,23 @@
           alt="">
       </div>
     {% endif %}
+
+    <!-- Add symbol for publication collection -->
+    {% if collection == "publications" %}
+      <i class="fa fa-align-left-o fa-1x"></i>
+    {% endif %}
+    {% if collection == "proceedings" %}
+      <i class="fa fa-child-o fa-1x"></i>
+    {% endif %}
+    {% if collection == "chapter" %}
+      <i class="fa fa-bookmark-o fa-1x"></i>
+    {% endif %}
+
+    <!-- Add citation -->
     <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}
     <br>
+
+    <!-- Add links to additional information -->
     {% if post.paperurl %}
       <a href="{{ post.paperurl }}" rel="permalink"><i class="fa fa-file-pdf-o fa-2x" aria-hidden="true"></i></a>
     {% endif %}
