@@ -35,6 +35,10 @@
       </div>
     {% endif %}
 
+    <!-- Add citation -->
+    <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}
+    <br>
+
     <!-- Add symbol for publication collection -->
     {% if collection == "publications" %}
       <i class="fa fa-align-left"></i>
@@ -45,10 +49,6 @@
     {% if collection == "chapter" %}
       <i class="fa fa-bookmark"></i>
     {% endif %}
-
-    <!-- Add citation -->
-    <p class="archive__item-excerpt" itemprop="description">{{ post.citation }}
-    <br>
 
     <!-- Add links to additional information -->
     {% if post.paperurl %}
