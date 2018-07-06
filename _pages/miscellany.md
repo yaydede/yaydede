@@ -25,9 +25,9 @@ material are also provided.
 
 ## Helpful links and other information
 
-* [Spoonflower](https://blog.spoonflower.com/2018/06/how-to-design-a-fabric-research-poster-with-canva/):
+* **[Spoonflower](https://blog.spoonflower.com/2018/06/how-to-design-a-fabric-research-poster-with-canva/)**:
   If you've been curious about cloth posters but haven't been interested in
-  dropping $100 or more for one, try out Spoonflower. They're a fabric-printing
+  dropping \$100 or more for one, try out Spoonflower. They're a fabric-printing
   service that easily accommodates research poster needs. Posters tend to run
   about $20---and with rush shipping for $25, it's still cheaper than most
   paper poster-printing services.
