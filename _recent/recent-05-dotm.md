@@ -2,7 +2,7 @@
 title: "Call to action: Data on the Mind"
 collection: recent
 permalink: /recent/dotm
-citation: '<b>Call to action</b>: Using big or naturally occurring data sets
+citation: '<b>Call to action</b>: Use big or naturally occurring data sets
 (BONDS) to test theories outside the lab by finding the traces of the
 behavioral and cognitive processes within the human-generated data (Paxton &
 Griffiths, 2017, <i>Behavior Research Methods</i>). Read the open-access

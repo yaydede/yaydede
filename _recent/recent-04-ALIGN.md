@@ -2,8 +2,8 @@
 title: "Methods: ALIGN"
 collection: recent
 permalink: /recent/ALIGN
-citation: '<b>Methods development</b>: Automatically and reproducibly quantifying
-multi-level linguistic alignment in natural conversation through ALIGN
+citation: '<b>Methods development</b>: Automatically and reproducibly quantify
+multi-level linguistic alignment in natural conversation with ALIGN
 (Duran, Paxton, & Fusaroli, <i>under review</i>).  Find our Python package on
 GitHub, or install it directly from PyPI. Read about it in our preprint on
 PsyArXiv!'
