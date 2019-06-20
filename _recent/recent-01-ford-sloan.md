@@ -6,8 +6,6 @@ citation: '<b>Grant</b>: Along with PI R. Stuart Geiger (University of
   California, Berkeley) and fellow co-PI Lilly Irani (Lilly Irani, University
   of California, San Diego), our team won an interdisciplinary grant from the
   Ford and Ford Foundations to help our understanding of important digital
-  infrastructure ("The visible and invisible work of maintaining open source
-  digital infrastructure"). Stay tuned for insights about the individual and
-  community dynamics as we pursue this work!'
+  infrastructure. Check out the announcement from Ford!'
 relatedurl: 'https://www.fordfoundation.org/ideas/equals-change-blog/posts/announcing-13m-in-funding-for-digital-infrastructure-research/'
 ---
