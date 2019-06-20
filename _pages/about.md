@@ -16,16 +16,20 @@ As a cognitive scientist and data scientist, I take a **data-rich approach** to
 understanding **how people collaborate, bond, and fight**. To do that, I
 weave together a **variety of data sources from the lab and the real world**
 for a converging tapestry of the many ways in which our language, movement,
-decisions, and emotions change during social contact. Understanding how context
----including conversational goals, social connections, and physical spaces---
-shape our emerging behaviors is a primary goal of my research, embedded
+decisions, and emotions change during social contact. Understanding how
+context---including conversational goals, social connections, and physical
+spaces---shape our emerging behaviors is a primary goal of my research, embedded
 within **rich traditions of dynamical and ecological perspectives** on human
 behavior and cognition broadly.
 
 I'm also interested in **developing methods** to quantify social interaction,
 promoting **open science** research and education, and creating opportunities
 for cognitive scientists and psychologists who are interested in **big data,
-naturally occurring data, and data science**.
+naturally occurring data, and data science**, with a special focus on **data
+ethics**.
+
+**I'm actively recruiting lab members**, so please send me your CV and a brief
+description of your research interests if you'd like to be considered!
 
 ## About me
 
@@ -33,9 +37,10 @@ I'm an assistant professor in the
 [University of Connecticut](https://uconn.edu/)’s
 [Department of Psychological Sciences](https://psych.uconn.edu/), specifically
  within the [Perception, Action, Cognition
-division](https://psych.uconn.edu/perception-action-cognition-division/). **I'm
-actively recruiting lab members**, so please send me your CV and a brief
-description of your research interests if you'd like to be considered.
+division](https://psych.uconn.edu/perception-action-cognition-division/). I am
+affiliated with the Center for the Ecological Study of Perception and Action;
+the Institute for Collaboration on Health, Intervention, and Policy; and the
+Connecticut Institute for the Brain and Cognitive Sciences.
 
 Previously, I was a postdoctoral scholar working with
 [Tom Griffiths](http://cocosci.berkeley.edu/tom/) in the
