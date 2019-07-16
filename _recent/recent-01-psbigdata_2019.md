@@ -1,7 +1,7 @@
 ---
 title: "Media: Helping big data become more ethical and more open"
 collection: recent
-permalink: /recent/ps_big_data
+permalink: /recent/psbig_data
 citation: "<b>Invited blog post</b>: Psychological scientists can do big data
 research while preserving our ethical responsibilities to our participants
 <i>and</i> our commitments to improving the openness and transparency of
