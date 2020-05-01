@@ -7,4 +7,5 @@ Acoustic specification of upper limb movement in voicing.
 In A. Grimminger (Ed.),
 <i>Proceedings of the 6th Gesture and Speech in Interaction</i>.
 Paderborn: Universitaetsbibliothek Paderborn.'
+oa_paperurl: 'https://psyarxiv.com/5rcdu/'
 ---
