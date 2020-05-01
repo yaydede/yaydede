@@ -4,7 +4,7 @@ collection: recent
 permalink: /recent/beyond_consistency
 citation: '<b>Publication</b>: Graduate student
 <a href="https://www.tu-braunschweig.de/en/psychologie/aos/mitarbeiterinnen/mueller-frommeyer" target="_blank">Lena Müller-Frommeyer (TU Braunschweig)</a>
-spent last summer working with me in my lab at UConn on a grant, and together
+won a prestigious grant to join me at UConn in my lab last summer, and together
 with her thesis advisor
 <a href="https://www.tu-braunschweig.de/en/psychologie/aos/mitarbeiterinnen/kauffeld" target="_blank">Simone Kauffeld (TU Braunschweig)</a>, we put together an exciting
 paper on the context-dependency of individual language style. It was recently
