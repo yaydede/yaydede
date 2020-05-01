@@ -22,11 +22,11 @@ spaces---shape our emerging behaviors is a primary goal of my research, embedded
 within **rich traditions of dynamical and ecological perspectives** on human
 behavior and cognition broadly.
 
-I'm also interested in **developing methods** to quantify social interaction,
-promoting **open science** research and education, and creating opportunities
-for cognitive scientists and psychologists who are interested in **big data,
-naturally occurring data, and data science**, with a special focus on **data
-ethics**.
+I also **develop methods** to quantify social interaction,
+promote **open science** research and education, and
+create opportunities for cognitive scientists and psychologists who are
+interested in **data science, naturally occurring data, and big data**,
+with a special focus on **data ethics**.
 
 **I'm actively recruiting lab members**, so please send me your CV and a brief
 description of your research interests if you'd like to be considered!
@@ -36,11 +36,12 @@ description of your research interests if you'd like to be considered!
 I'm an assistant professor in the
 [University of Connecticut](https://uconn.edu/)’s
 [Department of Psychological Sciences](https://psych.uconn.edu/), specifically
- within the [Perception, Action, Cognition
-division](https://psych.uconn.edu/perception-action-cognition-division/). I am
-affiliated with the Center for the Ecological Study of Perception and Action;
-the Institute for Collaboration on Health, Intervention, and Policy; and the
-Connecticut Institute for the Brain and Cognitive Sciences.
+ within the
+[Perception, Action, Cognition division](https://psych.uconn.edu/perception-action-cognition-division/).
+I am affiliated with
+the [Center for the Ecological Study of Perception and Action](https://cespa.uconn.edu/);
+the [Institute for Collaboration on Health, Intervention, and Policy](https://chip.uconn.edu/);
+and the [Connecticut Institute for the Brain and Cognitive Sciences](https://ibacs.uconn.edu/).
 
 Previously, I was a postdoctoral scholar working with
 [Tom Griffiths](http://cocosci.berkeley.edu/tom/) in the
