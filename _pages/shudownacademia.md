@@ -9,4 +9,4 @@ author_profile: true
 
 ## #ShutDownAcademia #ShutDownStem #BlackLivesMatter
 
-![](images/ShutDownSTEM.png)
+![](a-paxton.github.io/images/ShutDownSTEM.png)
