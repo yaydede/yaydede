@@ -23,9 +23,6 @@ to join this effort---not just on June 10 but continually and in every way that
 you can. To find out more about what you can do, visit #ShutDownStem's website
 ([link](https://www.shutdownstem.com/)), and then share your plans with others.
 
-Sincerely,
-Alex
-
 #BlackLivesMatter
 #SayHerName
 #ShutDownSTEM
