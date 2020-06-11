@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /shutdownacademia/
 title: "ShutDownAcademia"
 excerpt: "ShutDownAcademia"
 author_profile: true
