@@ -42,6 +42,9 @@ I am affiliated with
 the [Center for the Ecological Study of Perception and Action](https://cespa.uconn.edu/);
 the [Institute for Collaboration on Health, Intervention, and Policy](https://chip.uconn.edu/);
 and the [Connecticut Institute for the Brain and Cognitive Sciences](https://ibacs.uconn.edu/).
+I am also a faculty mentor in the
+[Science of Learning and Art of Communication](https://slac.uconn.edu/) training
+program.
 
 Previously, I was a postdoctoral scholar working with
 [Tom Griffiths](http://cocosci.berkeley.edu/tom/) in the
