@@ -41,13 +41,14 @@ I'm an assistant professor in the
 I am affiliated with
 the [Center for the Ecological Study of Perception and Action](https://cespa.uconn.edu/);
 the [Institute for Collaboration on Health, Intervention, and Policy](https://chip.uconn.edu/);
-and the [Connecticut Institute for the Brain and Cognitive Sciences](https://ibacs.uconn.edu/).
+the [Connecticut Institute for the Brain and Cognitive Sciences](https://ibacs.uconn.edu/);
+and the [Cognitive Science program](https://cogsci.uconn.edu/).
 I am also a faculty mentor in the
-[Science of Learning and Art of Communication](https://slac.uconn.edu/) training
-program.
+[Science of Learning and Art of Communication](https://slac.uconn.edu/)
+training program.
 
 Previously, I was a postdoctoral scholar working with
-[Tom Griffiths](http://cocosci.berkeley.edu/tom/) in the
+[Tom Griffiths](http://cocosci.princeton.edu/tom/index.php) in the
 [Institute of Cognitive and Brain Sciences](http://icbs.berkeley.edu/)
 at the [University of California, Berkeley](http://www.berkeley.edu/)
 and a [Moore-Sloan Data Science Fellow](http://msdse.org/)
