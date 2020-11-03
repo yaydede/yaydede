@@ -1,8 +1,8 @@
 ---
 title: "Ecological psychology meets ecology"
 collection: publications
-permalink: /publication/under_revision-chiovaro_paxton
-venue: ''
-citation: '<u>Chiovaro, M.,</u> & <b>Paxton, A.</b> (under review).
-Ecological psychology meets ecology: Apis mellifera as a model for perception, action, and social dynamics.'
+permalink: /publication/in_press-chiovaro_paxton
+venue: 'Ecological Psychology'
+citation: '<u>Chiovaro, M.,</u> & <b>Paxton, A.</b> (in press).
+Ecological psychology meets ecology: <i>Apis mellifera</i> as a model for perception-action, social dynamics, and human factors. <i>Ecological Psychology</i>.'
 ---
