@@ -51,8 +51,12 @@ I'm proud to be currently advising two graduate students,
 [Megan Chiovaro](https://mchiovaro.github.io/) and Caitrín ("Cat") Hall. Our
 lab---the [**dyscord lab**](https://github.com/dyscord-lab)---also includes a
 number of bright and hard-working current and former undergraduate research
-assistants. Together, we explore the **dy**namics of **s**ocial **c**ommunication
-and inter-**or**ganism **d**ependencies.
+assistants. Together, we explore the
+**dy**namics of
+**s**ocial
+**c**ommunication and inter-
+**or**ganism
+**d**ependencies.
 
 Previously, I was a postdoctoral scholar working with
 [Tom Griffiths](http://cocosci.princeton.edu/tom/index.php) in the
