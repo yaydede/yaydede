@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-## Helpful links and other information
+## Helpful work management resources
 
 * **[Workona](https://workona.com/)**:
   I can't say enough amazing things about Workona. If you're anything like me,
@@ -27,6 +27,15 @@ author_profile: true
   service that easily accommodates research poster needs. Posters tend to run
   about 20 USD---and with rush shipping for 25 USD, it's still cheaper than most
   paper poster-printing services.
+
+***
+
+## Educational resources
+
+* **[*R for Psychological Science* (Danielle Navarro)](https://psyr.djnavarro.net/index.html)**:
+  If you're looking for a friendly way to learn R, I cannot recommend this
+  resource highly enough. I've been using it in my lab since spring 2020 as a
+  general-purpose introduction for R in our domain.
 
 ***
 
