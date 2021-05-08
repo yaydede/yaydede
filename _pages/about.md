@@ -51,12 +51,12 @@ Together, we explore the
 **c**ommunication and
 inter-**or**ganism
 **d**ependencies.
-Our lab includes several graduate students---
+Our lab includes several graduate students ---
 [Megan Chiovaro](https://mchiovaro.github.io/),
 [Lana Delasanta](https://psych.uconn.edu/person/lana-delasanta/),
 [Caitrín ("Cat") Hall](https://psych.uconn.edu/person/caitrin-hall/),
 and
-Gray Thomas (starting in Fall 2021)---
+Gray Thomas (starting in Fall 2021) ---
 and a number of bright and hard-working current and former
 undergraduate research assistants. You can find out more about our community
 and our work [at our lab website](https://dyscord-lab.github.io/). (If you're an
