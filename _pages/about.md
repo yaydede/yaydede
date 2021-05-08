@@ -48,8 +48,8 @@ I'm proud to lead the [**dyscord lab**](https://dyscord-lab.github.io/).
 Together, we explore the
 **dy**namics of
 **s**ocial
-**c**ommunication and inter-
-**or**ganism
+**c**ommunication and
+inter-**or**ganism
 **d**ependencies.
 Our lab includes several graduate students---
 [Megan Chiovaro](https://mchiovaro.github.io/),
