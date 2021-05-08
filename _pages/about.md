@@ -28,9 +28,6 @@ create opportunities for cognitive scientists and psychologists who are
 interested in **data science, naturally occurring data, and big data**,
 with a special focus on **data ethics**.
 
-**I'm actively recruiting lab members**, so please send me your CV and a brief
-description of your research interests if you'd like to be considered!
-
 ## About me
 
 I'm an assistant professor in the
@@ -47,16 +44,24 @@ I am also a faculty mentor in the
 [Science of Learning and Art of Communication](https://slac.uconn.edu/)
 training program.
 
-I'm proud to be currently advising two graduate students,
-[Megan Chiovaro](https://mchiovaro.github.io/) and Caitrín ("Cat") Hall. Our
-lab---the [**dyscord lab**](https://github.com/dyscord-lab)---also includes a
-number of bright and hard-working current and former undergraduate research
-assistants. Together, we explore the
+I'm proud to lead the [**dyscord lab**](https://dyscord-lab.github.io/).
+Together, we explore the
 **dy**namics of
 **s**ocial
 **c**ommunication and inter-
 **or**ganism
 **d**ependencies.
+Our lab includes several graduate students---
+[Megan Chiovaro](https://mchiovaro.github.io/),
+[Lana Delasanta](https://psych.uconn.edu/person/lana-delasanta/),
+[Caitrín ("Cat") Hall](https://psych.uconn.edu/person/caitrin-hall/),
+and
+Gray Thomas (starting in Fall 2021)---
+and a number of bright and hard-working current and former
+undergraduate research assistants. You can find out more about our community
+and our work [at our lab website](https://dyscord-lab.github.io/). (If you're an
+undergraduate student interested in working with the lab, please
+[fill out this form](https://docs.google.com/forms/d/e/1FAIpQLScxCpwVgjQav5GtNbVnUdEvgmX7sY3qWOaNJ2HH4jndZF4Grw/viewform?usp=sf_link).)
 
 Previously, I was a postdoctoral scholar working with
 [Tom Griffiths](http://cocosci.princeton.edu/tom/index.php) in the
