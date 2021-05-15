@@ -35,11 +35,11 @@ redirect_from:
 ## Peer-Reviewed Journal Publications
 
 Mentees’ names underlined. Asterisk indicates dual first-author position.
-Open access articles or preprints (<i class="ai ai-fw ai-open-access-square"></i>)
-are linked below; all other PDFs (<i class="fa fa-file-pdf-o" aria-hidden="true">
-</i>) are provided for **personal use only.** Supplementary materials on GitHub
-(<i class="fa fa-github" aria-hidden="true"></i>) and OSF
-(<i class="ai ai-fw ai-osf"></i>) for each publication are linked below the
+Open access articles or preprints <nobr>(<i class="ai ai-fw ai-open-access-square"></i>)</nobr>
+are linked below; all other PDFs <nobr>(<i class="fa fa-file-pdf-o" aria-hidden="true"></i>)</nobr>
+are provided for **personal use only.** Supplementary materials on
+GitHub <nobr>(<i class="fa fa-github" aria-hidden="true"></i>)</nobr> and
+OSF <nobr>(<i class="ai ai-fw ai-osf"></i>)</nobr> for each publication are linked below the
 citation.
 
 {% for post in site.publications reversed %}
@@ -49,11 +49,11 @@ citation.
 ## Refereed Conference Proceedings
 
 Mentees’ names underlined. Asterisk indicates dual first-author position.
-Open access articles or preprints (<i class="ai ai-fw ai-open-access-square"></i>)
-are linked below; all other PDFs (<i class="fa fa-file-pdf-o" aria-hidden="true">
-</i>) are provided for **personal use only.** Supplementary materials on GitHub
-(<i class="fa fa-github" aria-hidden="true"></i>) and OSF
-(<i class="ai ai-fw ai-osf"></i>) for each publication are linked below the
+Open access articles or preprints <nobr>(<i class="ai ai-fw ai-open-access-square"></i>)</nobr>
+are linked below; all other PDFs <nobr>(<i class="fa fa-file-pdf-o" aria-hidden="true"></i>)</nobr>
+are provided for **personal use only.** Supplementary materials on
+GitHub <nobr>(<i class="fa fa-github" aria-hidden="true"></i>)</nobr> and
+OSF <nobr>(<i class="ai ai-fw ai-osf"></i>)</nobr> for each publication are linked below the
 citation.
 
 {% for post in site.proceedings reversed %}
