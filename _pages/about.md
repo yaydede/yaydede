@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
-
 ## Data-rich human communication
 
 As a cognitive scientist and data scientist, I take a **data-rich approach** to
