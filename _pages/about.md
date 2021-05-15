@@ -26,7 +26,8 @@ I also **develop methods** to quantify social interaction,
 promote **open science** research and education, and
 create opportunities for cognitive scientists and psychologists who are
 interested in **data science, naturally occurring data, and big data**,
-with a special focus on **data ethics**.
+with a special focus on **data ethics**. Advocating for **diversity, equity, and inclusion**
+is an essential part of my scholarly, mentoring, and pedagogical work.
 
 ## About me
 
