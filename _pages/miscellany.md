@@ -47,7 +47,7 @@ information. Links to the relevant paper (either open-access
 <i class="ai ai-fw ai-open-access-square"></i> or not
 <nobr><i class="fa fa-file-pdf-o" aria-hidden="true"></i>;</nobr> provided for
 **personal use only**) are given. Where applicable, links to GitHub repositories
-<nobr>(<i class="fa fa-github" aria-hidden="true"></i>)</nobr> and OSF projects
+<nobr>(<i class="fab fa-fw fa-github" aria-hidden="true"></i>)</nobr> and OSF projects
 <nobr>(<i class="ai ai-fw ai-osf"></i>)</nobr> that were instrumental in the related
 material are also provided.
 

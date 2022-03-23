@@ -14,7 +14,7 @@ including
 open-access publications or preprints <nobr>(<i class="ai ai-fw ai-open-access-square"></i>)</nobr>,
 non-OA publications <nobr>(<i class="fa fa-file-pdf-o" aria-hidden="true"></i>;</nobr>
 available for *personal use only*),
-GitHub repositories <nobr>(<i class="fa fa-github" aria-hidden="true"></i>)</nobr>,
+GitHub repositories <nobr>(<i class="fab fa-fw fa-github" aria-hidden="true"></i>)</nobr>,
 OSF projects <nobr>(<i class="ai ai-fw ai-osf"></i>)</nobr>, and
 miscellaneous information <nobr>(<b>∼</b>)</nobr>.
 
