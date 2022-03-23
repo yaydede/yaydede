@@ -44,7 +44,7 @@ author_profile: true
 Here's some additional information from various publications. Click on the
 relational operator <nobr>(<b>∼</b>)</nobr> to access the additional
 information. Links to the relevant paper (either open-access
-<i class="ai ai-fw ai-open-access-square"></i> or not
+<nobr><i class="ai ai-fw ai-open-access-square"></i></nobr> or not
 <nobr><i class="fas fa-file-pdf" aria-hidden="true"></i>;</nobr> provided for
 **personal use only**) are given. Where applicable, links to GitHub repositories
 <nobr>(<i class="fab fa-fw fa-github" aria-hidden="true"></i>)</nobr> and OSF projects
