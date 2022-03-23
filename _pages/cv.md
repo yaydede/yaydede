@@ -36,7 +36,7 @@ redirect_from:
 
 Mentees’ names underlined. Asterisk indicates dual first-author position.
 Open access articles or preprints <nobr>(<i class="ai ai-fw ai-open-access-square"></i>)</nobr>
-are linked below; all other PDFs <nobr>(<i class="fab fa-file-pdf-o" aria-hidden="true"></i>)</nobr>
+are linked below; all other PDFs <nobr>(<i class="fas fa-file-pdf" aria-hidden="true"></i>)</nobr>
 are provided for **personal use only.** Supplementary materials on
 GitHub <nobr>(<i class="fab fa-fw fa-github" aria-hidden="true"></i>)</nobr> and
 OSF <nobr>(<i class="ai ai-fw ai-osf"></i>)</nobr> for each publication are linked below the
