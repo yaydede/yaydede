@@ -2,7 +2,7 @@
 title: "Ethics: Psychological scientists, data science, and data ethics"
 collection: recent
 permalink: /recent/data_ethics
-citation: "<b>Data ethics as an extension of human-subjects research ethics</b>:
+citation: "<b>Data ethics</b>:
 Psychological scientists are increasingly interested in harnessing big data and
 naturally occurring data, but this new data landscape poses new challenges. I
 argue that the Belmont principles of respect for persons, beneficence, and justice
