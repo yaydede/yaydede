@@ -1,8 +1,8 @@
 ---
 title: "The Belmont Report in the age of big data: Ethics at the intersection
 of psychological science and data science"
-collection: publications
-permalink: /publication/2020-paxton
+collection: chapters
+permalink: /chapters/2020-paxton
 venue: 'Big data methods for psychological research: New horizons and challenges'
 citation: '<b>Paxton, A.</b> (2020). The
 Belmont Report in the age of big data: Ethics at the intersection of
