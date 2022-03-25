@@ -1,10 +1,8 @@
 ---
-title: "Securing the next generation of open-source contributors"
+title: "Community, time, and (con)text"
 collection: publications
-permalink: /publication/under_revision-paxton_varoquaux_holdgraf_geiger
+permalink: /publication/accepted-paxton_varoquaux_holdgraf_geiger
 venue: ''
 citation: '<b>Paxton, A.</b>, Varoquaux, N., Holdgraf, C., & Geiger, R. S.
-(under revision). Securing the next generation of open-source contributors: How
-language and community dynamics influence newcomer retention in open-source
-software communities.'
+(accepted). Community, time, and (con)text: Online communication patterns in open-source software communities and their implications for community health. <i>Cognitive Science</i>.'
 ---
