@@ -55,7 +55,7 @@ Our lab includes several graduate students ---
 [Lana Delasanta](https://psych.uconn.edu/person/lana-delasanta/),
 [Caitrín ("Cat") Hall](https://psych.uconn.edu/person/caitrin-hall/),
 and
-Gray Thomas (starting in Fall 2021) ---
+Gray Thomas ---
 and a number of bright and hard-working current and former
 undergraduate research assistants. You can find out more about our community
 and our work [at our lab website](https://dyscord-lab.github.io/). (If you're an
