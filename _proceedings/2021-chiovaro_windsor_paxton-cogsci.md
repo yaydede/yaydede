@@ -7,4 +7,6 @@ Vector autoregression, cross-correlation, and cross-recurrence quantification an
 In
 <i>Proceedings of the 43rd Annual Meeting of the Cognitive Science Society</i>.
 Austin, TX: Cognitive Science Society.'
+oa_paperurl: 'https://escholarship.org/content/qt49d0w3rn/qt49d0w3rn.pdf'
+githuburl: 'https://github.com/mchiovaro/time-series-analyses'
 ---
