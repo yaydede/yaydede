@@ -183,6 +183,9 @@ collections:
   proceedings:
     output: true
     permalink: /:collection/:path/
+  chapters:
+    output: true
+    permalink: /:collection/:path/
   miscellany:
     output: true
     permalink: /:collection/:path/
