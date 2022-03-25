@@ -1,5 +1,5 @@
 ---
-title: "Methods: ALIGN"
+title: "Publication: ALIGN"
 collection: recent
 permalink: /recent/ALIGN
 citation: '<b>Methods development</b>: Automatically and reproducibly quantify
