@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae](http://yaydede.github.io/files/cv.pdf)) 
+[Curriculum Vitae](http://yaydede.github.io/files/CV6.pdf) 
 
 A data-driven personal website
 ======
