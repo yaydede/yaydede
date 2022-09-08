@@ -12,6 +12,8 @@ redirect_from:
   
 I am a [Sobey](https://www.smu.ca/academics/sobey/sobey-professorships-and-chairs.html) professor in the Department of Economics at [Saint Mary's University](https://smu.ca) in beautiful Halifax.  Although most of my research is in the field of population economics, my current focus is on genomics, unconventional data, chronic disease surveillance systems, and machine learning.  I teach data analytics courses at undergraduate and graduate levels.
   
+I am also co-founders of [Research Portal on Machine Learning for Social and Health Policies](https://sites.google.com/view/mlportal/home) (MLPortal).
+  
 [Curriculum Vitae](http://yaydede.github.io/files/CV6.pdf) 
   
 
