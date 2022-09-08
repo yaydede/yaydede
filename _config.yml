@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Yigit Aydede"
+subtitle                 : "Data Analytics & Machine Learning"
 title_separator          : "-"
 name                     : &name "Yigit Aydede"
 description              : &description "Personal Website"
