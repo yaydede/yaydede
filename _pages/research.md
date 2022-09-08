@@ -6,6 +6,10 @@ author_profile: true
 
 Please see the full list my publications at [my Google Scholar profile](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) site or my CV ... 
 
+## My fortcoming book ...
+
+[Toolbox for Social Scientists and Polcy Analysts:  Applied Data Analytics & Machine Learning](https://yaydede.github.io/ToolShed/) 
+
 ## Recent publications
 
 - Speeding up for a son in Turkey. [Canadian Journal of Development Studies](https://www.tandfonline.com/toc/rcjd20/current).  Forthcoming.
@@ -16,7 +20,7 @@ Please see the full list my publications at [my Google Scholar profile](https://
 - [Is the lower return to immigrants’ foreign schooling a postarrival problem in Canada?](https://link.springer.com/article/10.1186/s40176-016-0076-9), 2017 IZA Journal of Migration.
 - [The cost of immigrants’ occupational mismatch and the effectiveness of postarrival policies in Canada](https://link.springer.com/article/10.1186/s40176-016-0057-z), 2016  IZA Journal of Migration.
 
-## Working Papers
+## Working papers
 
  - [Dynamics of Social Mobility during the COVID19 Pandemic in Canada](https://www.iza.org/publications/dp/13376/dynamics-of-social-mobility-during-the-covid-19-pandemic-in-canada), (M.Yuksel and F.Begolli). *IZA Discussion Papers*, 13376. 06/2020.
  
