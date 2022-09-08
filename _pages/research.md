@@ -25,7 +25,8 @@ Please see the full list my publications at [my Google Scholar profile](https://
  - [Dynamics of Social Mobility during the COVID19 Pandemic in Canada](https://www.iza.org/publications/dp/13376/dynamics-of-social-mobility-during-the-covid-19-pandemic-in-canada), (M.Yuksel and F.Begolli). *IZA Discussion Papers*, 13376. 06/2020.
  
 ## Work in progress
-
+(More details in "Talks" ...
+  
  - Application of “dominance analysis” with health data: Identifying regional spreaders of a viral pathogen and their socio-spatial predictors in Nova Scotia. (with Jan Ditzen)
  - Understanding the dynamics of a viral spread by sparse composite likelihood selection.
  - [Mobility and COVID-19 Spread: Solving the Puzzle](https://raw.githack.com/yaydede/Blog_posts/main/paper_v12.html) (Mutlu Yuksel). 
