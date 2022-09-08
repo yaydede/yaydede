@@ -7,7 +7,7 @@ author_profile: true
 Please see the full list my publications at [my Google Scholar profile](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) site or my CV ... 
 
 ## My fortcoming book ...
-![](https://cdn.mathpix.com/snip/images/TFp84IoVeVMLX_ieeJrgDtn0X2k6YCk8DpVNvWpjIbs.original.fullsize.png)
+
 [Toolbox for Social Scientists and Polcy Analysts:  Applied Data Analytics & Machine Learning](https://yaydede.github.io/ToolShed/) 
 
 ## Recent publications
