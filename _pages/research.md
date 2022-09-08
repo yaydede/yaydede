@@ -4,7 +4,7 @@ permalink: /Research/
 author_profile: true
 ---
 
-Please see the full list my publications at [my Google Scholar profile](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) site or my CV ... 
+Please see the full list of my publications at [my Google Scholar profile](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) site or my CV ... 
 
 ## My fortcoming book ... "Toolbox"  
 
