@@ -1,5 +1,5 @@
 ---
-title: "Representative Research"
+title: "Recent Research"
 permalink: /Research/
 author_profile: true
 ---
