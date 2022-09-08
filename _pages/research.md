@@ -8,7 +8,7 @@ Please see the full list my publications at [my Google Scholar profile](https://
 
 ## My fortcoming book ...
 
-[Toolbox for Social Scientists and Polcy Analysts:  Applied Data Analytics & Machine Learning](https://yaydede.github.io/ToolShed/) 
+[Toolbox for Social Scientists and Policy Analysts:  Applied Data Analytics & Machine Learning](https://yaydede.github.io/ToolShed/) 
 
 ## Recent publications
 
