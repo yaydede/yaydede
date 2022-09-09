@@ -13,3 +13,4 @@ Please see the full list of my presenations/talks in my [Curriculum Vitae](http:
 - [Causal Predictors of Cancer by Spartsity](http://yaydede.github.io/files/Przo1cancer.pdf). Univeristy of Bolzano - December 2021 
 - [Dynamics of the COVID-19 Spread by Modified Graphical Network Analysis](http://yaydede.github.io/files/Przo2.pdf) - University Bolzano Seminar [Series](https://www.unibz.it/en/events/138678-dynamics-of-the-covid-19-spread-by-modified-graphical-network-analysis) - October 20, 2021
 - [Mobility and COVID-19: Solving the puzzle](http://yaydede.github.io/files/mobilityprzo.pdf) - Research Expo - March 2021, Halifax
+- [What Can be Predicted from a National Health Survey?  Is Cancer one of Them]((http://yaydede.github.io/files/presentation1.pdf) - Big Data Meets Survey Science - [BigSurve](https://www.bigsurv.org) December 2020.
