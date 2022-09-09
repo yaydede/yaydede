@@ -6,15 +6,8 @@ author_profile: true
 ---
 
 ## Software
-- [bayesbridge v0.2](https://github.com/OHDSI/bayes-bridge)&nbsp; (with [documentation](https://bayes-bridge.readthedocs.io/en/latest/))
-  <br> Python package for Bayesian sparse regression based on the Bayesian bridge priors. The package implements the standard (Polya-Gamma augmented) Gibbs sampler as well as the CG-accelerated sampler of [Nishimura & Suchard (2022)](https://doi.org/10.1080/01621459.2022.2057859).
-
-- [CausalSurvival](https://github.com/nishimura-zeger-lab/CausalSurvival) <br>
-  R package implementing state-of-the-art doubly robust methods for estimating counterfactual survival curves, including augmented inverse probability weighting and targeted maximum likelihood estimation. More traditional procedures such as inverse probability weighting and stratified Cox model are also included.
-
-## Code
-- [Hoseshoe scale sampler](https://github.com/aki-nishimura/horseshoe-scale-sampler) <br>
-  Efficient rejection sampler for updating the local scale parameter in Gibbs sampling posterior distributions under (regularized) horseshoe models. Details and theoretical analysis can be found in the appendix of [Nishimura and Suchard (2022)](https://doi.org/10.1214/22-BA1308).
-
-- [Discontinuous Hamiltonian Monte Carlo](https://github.com/aki-nishimura/discontinuous-hmc)
-  <br> Python module implementing discontinuous Hamiltonian Monte Carlo of [Nishimura et. al. (2022)](https://doi.org/10.1093/biomet/asz083). Other codes used in the paper are also provided, including the modules to efficiently compute the log-likelihoods and their gradients of the Jolly-Seber and PAC Bayesian inference.
+- [Application of “dominance analysis” with health data: Identifying regional spreaders of a viral pathogen and their socio-spatial predictors in Nova Scotia](https://github.com/yaydede/Articles/blob/main/Przo1.pdf)
+- Causal Predictors of Cancer by Spartsity](https://github.com/yaydede/Articles/blob/main/Przo1cancer.pdf) 
+- My presentation at EUHEA 22 Conference: [Modified Graphical Network Analysis: Application on COVID](https://github.com/yaydede/Articles/blob/main/euhea22.pdf)
+- The recent findings of our COVID-19 project in the NS COVID-19 Research Coalition are presented at UniBZ: [Dynamics of the COVID-19 Spread by Modified Graphical Network Analysis](https://www.unibz.it/en/events/138678-dynamics-of-the-covid-19-spread-by-modified-graphical-network-analysis).   See the presenation (pdf) [here](https://rawcdn.githack.com/yaydede/Articles/8cd8d824a6cb6688e6da0b4fbfbfcd5f928aeca8/Przo2.pdf)
+[![](https://cdn.mathpix.com/snip/images/T_4-srtunH5UwHhy6nP-L5ktO1DSoUm61U-hGWO8LW0.original.fullsize.png)](https://raw.githack.com/yaydede/Articles/main/Presentation1.pdf)
