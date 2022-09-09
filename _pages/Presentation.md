@@ -5,7 +5,7 @@ excerpt: "Talks & Presentations"
 author_profile: true
 ---
 
-## Software
+## Recent Talks
 - [Application of “dominance analysis” with health data: Identifying regional spreaders of a viral pathogen and their socio-spatial predictors in Nova Scotia](http://yaydede.github.io/files/Przo1.pdf) 
 - [Causal Predictors of Cancer by Spartsity](http://yaydede.github.io/files/Przo1cancer.pdf) 
 - [Modified Graphical Network Analysis: Application on COVID](http://yaydede.github.io/files/euhea22.pdf)
