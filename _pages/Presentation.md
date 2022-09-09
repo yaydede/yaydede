@@ -5,7 +5,7 @@ excerpt: "Talks & Presentations"
 author_profile: true
 ---
 
-
+Please see the full list of my presenations/talks in my [Curriculum Vitae](http://yaydede.github.io/files/CV6.pdf) 
 
 ## Recent Talks
 - [Application of “dominance analysis” with health data: Identifying regional spreaders of a viral pathogen and their socio-spatial predictors in Nova Scotia](http://yaydede.github.io/files/Przo1.pdf). CLARI - August 24-25, 2022. Halifax. 
