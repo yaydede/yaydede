@@ -20,7 +20,18 @@ As an applied economist, or researcher in a related field, if you feel that you 
 
 The course will combine both real data and theoretical background to enable researchers to gain practical experience in analysing a wide variety of data and econometric problems. It will also discuss how contemporary approaches in applied econometrics can be used to answer important questions in Economics. Participants will be provided a wealth of research papers and sources which apply the techniques being taught. Applications covered during the course will include the fields of labour, development, industrial organisation, health, macro economics and finance.
 
+### [Webinar on Machine Learning for Economists](https://sites.google.com/view/mlportal/online-events/webinar-series?authuser=0)
+(Online - July 20, 23, 24 - 2020)
+The purpose of this webinars is to share the latest applications of machine learning methods in different fields. These webinar series will be free and open to all researchers around the world
+
 ### [1st Workshop of Applied Microeconomics](https://sites.google.com/view/mlportal/online-events/1st-workshop-of-applied-microeconomics?authuser=0)
 (In-person & Online - August 24-25, 2022, Halifax)
   
 <img src="/images/Program.png"  width="640" height="640">  
+
+## Upcoming Events
+
+TBA ...
+
+
+
