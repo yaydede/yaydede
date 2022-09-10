@@ -19,5 +19,5 @@ author_profile: true
 ### ECON 4403 - Econometrics
 *Department of Economics, Winter 2023*
 
-### ECON 4498 - Reserach Topics
+### ECON 4498 - Research Topics
 *Department of Economics, Fall 2022*
