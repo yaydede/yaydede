@@ -13,7 +13,8 @@ The book is still very much a work in progress without a final copyediting.  Not
 <img src="/images/cover3.png"  width="240" height="240">  
 A draft version: [Toolbox](https://yaydede.github.io/ToolShed/) 
 
-
+## Who is this book for?
+  
 The "causal inference" is the traditional framework for most statistics courses in social science and business fields, especially in Economics and Finance. As I tried to look at “prediction” from economists’ perspective, the book has become a “toolbox” that many social science and business students can follow and understand predictive methods beyond standard machine learning “code” applications. 
 The book offers a new organization that helps students and faculty a smooth transition from "Inferential Statistics" to novel "prediction" methods. This transition starts with first few sections, which offer a window where a traditional training in inferential statistics meets with data analytics that focuses on prediction.     
 
