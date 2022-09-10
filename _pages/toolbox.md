@@ -7,6 +7,8 @@ author_profile: true
 
 The book is still very much a work in progress ... So what you see here is a draft version without a proper copyediting
 
+<a href="url"><img src="https://github.com/yaydede/yaydede.github.io/blob/d4bfc2591eb1e19ab91ac7b93faf6acf2dbb2f2b/images/cover3.png" align="left" height="30" width="30" ></a>
+
 ![](https://github.com/yaydede/yaydede.github.io/blob/d4bfc2591eb1e19ab91ac7b93faf6acf2dbb2f2b/images/cover3.png)
 
 This website is where I plan to include R codes, suplementary applications, errata, and various new chapters.
