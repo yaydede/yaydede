@@ -15,7 +15,7 @@ A draft version: [Toolbox](https://yaydede.github.io/ToolShed/)
 ## Who is this book for?
   
 The "causal inference" is the traditional framework for most statistics courses in social science and business fields, especially in Economics and Finance. As I tried to look at “prediction” from economists’ perspective, the book has become a “toolbox” that many social science and business students can follow and understand predictive methods beyond standard machine learning “code” applications. 
-The book offers a new organization that helps students and faculty a smooth transition from "Inferential Statistics" to novel "prediction" methods. This transition starts with first few sections, which offer a window where a traditional training in inferential statistics meets with data analytics that focuses on prediction.     
+The book offers a new organization that helps students and faculty a smooth transition from "Inferential Statistics" to novel "prediction" methods. This transition starts with the first few sections, which offer a window where a traditional training in inferential statistics meets with data analytics that focuses on prediction.     
 
 This book is targeted at *motivated* students and researchers who have a background in inferential statistics using parametric models. It is applied because I skip many theoretical proofs and justifications that can easily be found elsewhere. I do not assume a previous experience with R but some familiarity with coding.
 
