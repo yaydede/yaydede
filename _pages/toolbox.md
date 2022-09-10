@@ -7,7 +7,7 @@ author_profile: true
 
 The book is still very much a work in progress ... So what you see here is a draft version withour a proper copyediting
 
-![]<yaydede.github.io/images/cover3.png>
+<yaydede.github.io/images/cover3.png>
 
 This website is where I plan to include R codes, suplementary applications, errata, and various new chapters.
 
