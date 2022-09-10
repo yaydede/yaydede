@@ -5,13 +5,13 @@ author_profile: true
 ---
 
 ### MBAN 5560 - Machine Learning & Artificial Intelligence 
-*Master of Business Analytics, April 2023*
+*[Master of Business Analytics](https://www.smu.ca/mban/index.html), April 2023*
   
 ### MAE 6638 - Introduction to Applied Machine Learning with R
-*Master of Applied Economics, Winter 2023*
+*[Master of Applied Economics](https://www.smu.ca/academics/sobey/masters-in-applied-economics.html), Winter 2023*
 
 ### MFIN 6603 - Applied Statistics & Data Anaytics
-*Master of Finance, November 2022*
+*[Master of Finance](https://www.smu.ca/academics/sobey/master-of-finance.html), November 2022*
 
 ### MFIN 6609 - Econometrics & Business Forecasting
 *Master of Finance, April 2022*
