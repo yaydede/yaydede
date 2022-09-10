@@ -1,7 +1,7 @@
 ---
 permalink: /Toolbox/
 title: "Toolbox for Social Scientists and Policy Analysts: Applied Data Analytics with Machine Learning and R"
-excerpt: "Software & Code"
+excerpt: "Toolbox"
 author_profile: true
 ---
 
