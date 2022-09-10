@@ -23,4 +23,4 @@ The course will combine both real data and theoretical background to enable rese
 ### [1st Workshop of Applied Microeconomics](https://sites.google.com/view/mlportal/online-events/1st-workshop-of-applied-microeconomics?authuser=0)
 (August 24-25, 2022)
   
-<img src="/images/Program.png"  width="440" height="440">  
+<img src="/images/Program.png"  width="640" height="640">  
