@@ -7,7 +7,7 @@ author_profile: true
 
 The book is still very much a work in progress ... So what you see here is a draft version without a proper copyediting
 
-<a href="url"><img src="https://github.com/yaydede/yaydede.github.io/blob/d4bfc2591eb1e19ab91ac7b93faf6acf2dbb2f2b/images/cover3.png" align="left" height="80" width="80" ></a>
+<a href="url"><img src="https://github.com/yaydede/yaydede.github.io/blob/d4bfc2591eb1e19ab91ac7b93faf6acf2dbb2f2b/images/cover3.png" align="left" height="200" width="140" ></a>
 
 ![](https://github.com/yaydede/yaydede.github.io/blob/d4bfc2591eb1e19ab91ac7b93faf6acf2dbb2f2b/images/cover3.png)
 
