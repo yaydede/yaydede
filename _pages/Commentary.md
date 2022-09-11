@@ -8,7 +8,7 @@ author_profile: true
 ## Media coverage
 TBC
 
-## Scratchs
+## Scratches
 
 - [Identifying the Predictors of COVID-19 Spread by Ensemble Learning](https://raw.githack.com/yaydede/Blog_posts/main/Tree_v7.html)
 - [Ontario COVID-19 EDA](https://raw.githack.com/yaydede/Blog_posts/main/EDA.html). 
