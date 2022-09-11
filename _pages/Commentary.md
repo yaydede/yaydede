@@ -5,7 +5,15 @@ excerpt: "Commentary"
 author_profile: true
 ---
 
-[Research Portal on Machine Learning for Social and Health Policies](https://sites.google.com/view/mlportal/home) 
+## Media coverage
+TBC
 
-## About
-The portal (MLPortal) provides a hub for researchers who want to make machine learning methods more accessible in social and health science applications for better predictive and causal analyses. We hope to offer a platform for statistical learning by enhancing collaboration between academic circles, policy makers, and private enterprises by disseminating the knowledge that helps others in their works, projects, course offerings, and private applications.
+## Scratchs
+
+- [Identifying the Predictors of COVID-19 Spread by Ensemble Learning](https://raw.githack.com/yaydede/Blog_posts/main/Tree_v7.html)
+- [Ontario COVID-19 EDA](https://raw.githack.com/yaydede/Blog_posts/main/EDA.html). 
+- [A Matrix Profile Analysis for COVID-19](https://raw.githack.com/yaydede/Blog_posts/main/MPA.html). 
+- [Predicting with Panel Data: Trainable Fixed Effects Models for COVID-19](https://raw.githack.com/yaydede/Blog_posts/main/PARMOD_v3.html). 
+- [Reimagine Nova Scotia: Learn and Work](https://raw.githack.com/yaydede/Blog_posts/main/learnandwork.pdf). 
+- [Conventional Time Series EDA and ETS Forecasting for Ontario COVID-19 Epi Curves](https://raw.githack.com/yaydede/Blog_posts/main/TimeSeries.html).  
+  
