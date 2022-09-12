@@ -7,9 +7,10 @@ author_profile: true
 Please see the full list of my publications at [my Google Scholar profile](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) site or in my [Curriculum Vitae](http://yaydede.github.io/files/CV6.pdf) 
 
 ## My fortcoming book ... "Toolbox"  
-<img src="/images/cover3.png"  width="140" height="140"> 
 [Toolbox](https://yaydede.github.io/ToolShed/) for Social Scientists and Policy Analysts:  Applied Predictive Analytics with Machine Learning and R 
-
+  
+<img src="/images/cover3.png"  width="140" height="140"> 
+  
 ## Recent publications
 
 - Speeding up for a son in Turkey. [Canadian Journal of Development Studies](https://www.tandfonline.com/toc/rcjd20/current).  Forthcoming.
