@@ -6,8 +6,8 @@ author_profile: true
 
 Please see the full list of my publications at [my Google Scholar profile](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) site or in my [Curriculum Vitae](http://yaydede.github.io/files/CV6.pdf) 
 
-## My fortcoming book ... "Toolbox"  
-[Toolbox](https://yaydede.github.io/ToolShed/)   
+## My fortcoming book ... "[Toolbox](https://yaydede.github.io/Toolbox/)"  
+   
 <img src="/images/cover3.png"  width="140" height="140"> 
   
 ## Recent publications
