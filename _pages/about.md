@@ -14,7 +14,7 @@ I am a [Sobey](https://www.smu.ca/academics/sobey/sobey-professorships-and-chair
   
 I am also a co-founder of [Research Portal on Machine Learning for Social and Health Policies](https://sites.google.com/view/mlportal/home) (MLPortal).
   
-This Github page summarizes all my work including a draft version of my book, [Toolbox](https://yaydede.github.io/ToolShed/), my recent research, blogs about "anything useful", and teaching.
+This Github page summarizes all my work including a draft version of my book, [Toolbox](https://yaydede.github.io/Toolbox/), my recent research, blogs about "anything useful", and teaching.
   
 ![](https://cdn.mathpix.com/snip/images/MJvBOjXHyB3E3ZZMocAO1gIszxL94_hjaRcrAwTRx94.original.fullsize.png)
   
