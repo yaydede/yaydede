@@ -24,7 +24,4 @@ author_profile: true
 
 ### R Bootcamp for Data Analytics
 
-[R Bootcamp](https://yaydede.github.io/Bootcamp_book/)
-
-This online book covers basics to learn R for Data Science. It is designed for [Master of Business Analytics](https://www.smu.ca/mban/index.html) students.
-It also has a companion R package named `RBootcamp`, containing the data sets used in the book as well as interactive exercises for each chapter.
+[R Bootcamp](https://yaydede.github.io/Bootcamp_book/):  This online book covers basics to learn R for Data Science. It is designed for [Master of Business Analytics](https://www.smu.ca/mban/index.html) students.  It also has a companion R package, `RBootcamp`, containing the data sets used in the book as well as interactive exercises for each chapter.
