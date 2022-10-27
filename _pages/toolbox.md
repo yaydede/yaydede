@@ -23,7 +23,7 @@ Contributions from the community are more than welcome! If you notice something 
 
 ### R Bootcamp for Data Analytics
 
-[R Bootcamp](https://yaydede.github.io/Bootcamp_book/) is an online book (<https://yaydede.github.io/Bootcamp_book/>) covers basics to learn R for Data Science. It is a companion book of [Toolbox](https://yaydede.github.io/ToolShed/).  It also has a R package, `RBootcamp`, containing the interactive exercises for each chapter.
+[R Bootcamp](https://yaydede.github.io/Bootcamp_book/) is an online book that covers basics to learn R for Data Science. It is a companion book of [Toolbox](https://yaydede.github.io/ToolShed/).  It also has an R package, `RBootcamp`, containing the interactive exercises for each chapter.
 
 
 
