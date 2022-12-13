@@ -17,6 +17,7 @@ author_profile: true
 ## Selected media coverage
 - [Reimagine Nova Scotia: Learn and Work](https://raw.githack.com/yaydede/Blog_posts/main/learnandwork.pdf) 
 - [What will a reimagined future look like for our province?](https://youtu.be/gVkREYSB3Ts)
+- [Using machine learning to predict viral transmission rates in Halifax](https://researchns.ca/2020/05/26/using-machine-learning-to-predict-viral-transmission-rates-in-halifax/) 
 - CBC NEWS - [How well have Canadians complied with COVID-19 restrictions? New data offers a glimpse](https://www.cbc.ca/news/canada/mobility-covid-restrictions-compliance-1.5956947) 
 - CTV Global New - [Coronavirus: lessons learned in Nova Scotia, research underway to prepare for second wave](https://globalnews.ca/news/7012816/coronavirus-lessons-learned-in-nova-scotia-research-underway-to-prepare-for-second-wave/) 
 - Vancouver Sun - [Douglas Todd: What would happen to Canadian housing if immigration stopped?](https://multiculturalmeanderings.com/2019/07/13/douglas-todd-what-would-happen-to-canadian-housing-if-immigration-stopped/) 
