@@ -23,7 +23,8 @@ at [Chapman & Hall/CRC](https://www.routledge.com/go/chapman-hall?gclid=Cj0KCQjw
 
 ## Working papers
 
- - [Identifying the regional drivers of influenza-like illness in Nova Scotia with dominance analysis](https://arxiv.org/abs/2212.06684), (with Jan Ditzen) 2022.  
+ - [Identifying the regional drivers of influenza-like illness in Nova Scotia with dominance analysis](https://arxiv.org/abs/2212.06684), (with Jan Ditzen) 12/2022.  
+ - [Native-born-immigrant wage gap revisited: The role of market imperfections in Canada](https://clef.uwaterloo.ca/wp-content/uploads/2023/01/CLEF-050-2022.pdf), *Canadian Labour Economics Forum*, WP#50, 12/2022
  - [Dynamics of Social Mobility during the COVID19 Pandemic in Canada](https://www.iza.org/publications/dp/13376/dynamics-of-social-mobility-during-the-covid-19-pandemic-in-canada), (M.Yuksel and F.Begolli). *IZA Discussion Papers*, 13376. 06/2020.
  
 ## Work in progress
