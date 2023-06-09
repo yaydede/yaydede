@@ -4,7 +4,7 @@ permalink: /Research/
 author_profile: true
 ---
 
-Please see the full list of my publications at [my Google Scholar profile](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) site or in my [Curriculum Vitae](http://yaydede.github.io/files/CV6.pdf) 
+Please see the full list of my publications at [my Google Scholar profile](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en) site or in my [Curriculum Vitae](http://yaydede.github.io/files/CV7.pdf) 
 
 ## My forthcoming book ... "[Toolbox](https://yaydede.github.io/Toolbox/)"
 at [Chapman & Hall/CRC](https://www.routledge.com/go/chapman-hall?gclid=Cj0KCQjwy5maBhDdARIsAMxrkw0o5NiqLoLFGwTpyvTlcjWBUFoLZlvVD26oiAXpoHVWRNvVSIIGgEcaAlecEALw_wcB)
