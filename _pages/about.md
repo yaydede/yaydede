@@ -17,5 +17,6 @@ I am also a co-founder of *Research Portal on Machine Learning for Social and He
 This Github page summarizes all my work including a draft version of my book, [Toolbox](https://yaydede.github.io/Toolbox/), my recent research, blogs about "anything useful", and teaching.
 
 Coming soon!
+  
 <img src="/images/CRC_cover.png">  
   
