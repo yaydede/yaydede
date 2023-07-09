@@ -9,7 +9,7 @@ Please see the full list of my publications at [my Google Scholar profile](https
 ## My forthcoming book ... "[Toolbox](https://yaydede.github.io/Toolbox/)"
 at [Chapman & Hall/CRC](https://www.routledge.com/go/chapman-hall?gclid=Cj0KCQjwy5maBhDdARIsAMxrkw0o5NiqLoLFGwTpyvTlcjWBUFoLZlvVD26oiAXpoHVWRNvVSIIGgEcaAlecEALw_wcB)
    
-<img src="/images/cover3.png"  width="140" height="140"> 
+<img src="/images/CRC_cover.png"  width="140" height="180"> 
   
 ## Recent publications
 
