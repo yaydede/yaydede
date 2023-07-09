@@ -13,6 +13,7 @@ at [Chapman & Hall/CRC](https://www.routledge.com/go/chapman-hall?gclid=Cj0KCQjw
   
 ## Recent publications
 
+- [Identifying the regional drivers of influenza-like illness in Nova Scotia, Canada, with dominance analysis](https://www.nature.com/articles/s41598-023-37184-z). 2023 Nature, Scientific Reports.
 - [Speeding up for a son in Turkey](https://www.tandfonline.com/eprint/8KCSCQPEYUPTIHXSYKQS/full?target=10.1080/02255189.2022.2145273). 2022 Canadian Journal of Development Studies.
 - [Speeding Up for a Son among Immigrants in Canada](https://can01.safelinks.protection.outlook.com/?url=https%3A%2F%2Frdcu.be%2FcOII0&data=05%7C01%7Cyigit.aydede%40smu.ca%7C9f0dab420256465f479908da43754240%7C060b02ae57754360abbae2e29cca6627%7C1%7C0%7C637896468467357238%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=oNiZrzUHZH26FiPmJ8JWdTcVO%2FowlsnpiABRQ1U8cTU%3D&reserved=0) 2022 Population Research and Policy Review.
 - [Why does field of study–occupation mismatch have no effect on wages in Turkish labour markets?](https://www.tandfonline.com/doi/abs/10.1080/00036846.2021.1937500) 2021 Applied Economics.
