@@ -14,7 +14,17 @@ The portal (MLPortal) provides a hub for researchers who want to make machine le
 
 In 2018, in collaboration with two of my colleagues, I co-founded MLPortal. Under the umbrella of this research portal, we currently have ten researchers actively working on subjects that range from the prediction of chronic diseases using better surveillance systems to issues related to the design of a better selection process for immigration policies by providing policy makers with a recommender system.
 
-## Past Events
+## Events
+
+### 2nd Workshop of Applied Microeconomics
+(In-person & Online - August 10-11, 2023, Halifax)
+  
+<img src="/images/Program2.png"  width="640" height="640">  
+
+### [1st Workshop of Applied Microeconomics](https://sites.google.com/view/mlportal/online-events/1st-workshop-of-applied-microeconomics?authuser=0)
+(In-person & Online - August 24-25, 2022, Halifax)
+  
+<img src="/images/Program.png"  width="640" height="640">  
 
 ### [Summer School on Machine Learning for Economists](https://sites.google.com/view/mlportal/online-events/online-lectures?authuser=0)
 (Online - July 20, 21, 22 - 2020)    
@@ -26,14 +36,9 @@ The course will combine both real data and theoretical background to enable rese
 (Online - July 20, 23, 24 - 2020)
 The purpose of this webinars is to share the latest applications of machine learning methods in different fields. These webinar series will be free and open to all researchers around the world
 
-### [1st Workshop of Applied Microeconomics](https://sites.google.com/view/mlportal/online-events/1st-workshop-of-applied-microeconomics?authuser=0)
-(In-person & Online - August 24-25, 2022, Halifax)
-  
-<img src="/images/Program.png"  width="640" height="640">  
 
-## Upcoming Events
 
-TBA ...
+
 
 
 
