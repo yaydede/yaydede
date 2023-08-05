@@ -21,7 +21,7 @@ In 2018, in collaboration with two of my colleagues, I co-founded MLPortal. Unde
   
 <img src="/images/Program2.png"  width="640" height="640">  
 
-### [1st Workshop of Applied Microeconomics](https://sites.google.com/view/mlportal/online-events/1st-workshop-of-applied-microeconomics?authuser=0)
+### 1st Workshop of Applied Microeconomics
 (In-person & Online - August 24-25, 2022, Halifax)
   
 <img src="/images/Program.png"  width="640" height="640">  
