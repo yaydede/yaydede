@@ -7,7 +7,7 @@ author_profile: true
 
 ## About this book
 
-The final version is forthcoming from [Chapman & Hall/CRC](https://www.routledge.com/go/chapman-hall?gclid=Cj0KCQjwy5maBhDdARIsAMxrkw0o5NiqLoLFGwTpyvTlcjWBUFoLZlvVD26oiAXpoHVWRNvVSIIGgEcaAlecEALw_wcB) in early 2023.  The draft version is still very much a work in progress without a final copyediting.  Note that some later chapters are "TBC" and will be ready before January 2023.  The book covers predictive methods with complementary statistical “tools” that make it self-contained.  This website is where I plan to include R codes, suplementary applications, errata, and various new chapters.
+The final version is forthcoming from [Chapman & Hall/CRC](https://www.taylorfrancis.com/books/mono/10.1201/9781003381501/machine-learning-toolbox-social-scientists-yigit-aydede) on September 22, 2023.  The draft and online version can be accessed below, which is still in progress without a final copyediting.  The book covers predictive methods with complementary statistical “tools” that make it self-contained.  This website is where I plan to include R codes, suplementary applications, errata, and various new chapters.
 
 <img src="/images/cover3.png"  width="240" height="240">  
 A draft version: [Toolbox](https://yaydede.github.io/toolbox/) 
