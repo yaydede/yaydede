@@ -16,7 +16,7 @@ I am also a co-founder of *Research Portal on Machine Learning for Social and He
   
 This Github page summarizes all my work including a draft version of my book, [Toolbox](https://yaydede.github.io/Toolbox/), my recent research, blogs about "anything useful", and teaching.
 
-My book., [Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R](https://www.taylorfrancis.com/books/mono/10.1201/9781003381501/machine-learning-toolbox-social-scientists-yigit-aydede), is available for pre-order on Amazon[https://www.amazon.ca/Machine-Learning-Toolbox-Social-Scientists-ebook/dp/B0CDP4HFLN/ref=sr_1_1?crid=1YA2X3E8OHAMV&keywords=yigit+aydede&qid=1691405871&sprefix=%2Caps%2C109&sr=8-1] and will be shipped after September 22, 2023.
+My book., [Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R](https://www.taylorfrancis.com/books/mono/10.1201/9781003381501/machine-learning-toolbox-social-scientists-yigit-aydede), is available for pre-order on [Amazon](https://www.amazon.ca/Machine-Learning-Toolbox-Social-Scientists-ebook/dp/B0CDP4HFLN/ref=sr_1_1?crid=1YA2X3E8OHAMV&keywords=yigit+aydede&qid=1691405871&sprefix=%2Caps%2C109&sr=8-1) and will be shipped after September 22, 2023.
   
 <img src="/images/CRC_cover.png">  
   
