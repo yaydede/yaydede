@@ -20,4 +20,4 @@ My book, [Machine Learning Toolbox for Social Scientists: Applied Predictive Ana
   
 I am also a co-founder of *Research Portal on Machine Learning for Social and Health Policies*, [MLPortal](https://yaydede.github.io/MLPortal/), where we orginize scholarly activities such as summer schools and workshops.  Our most recent workshop was on "Economists, Policymakers, and Health Data - A Collaborative Approach"
 
-<img src="/images/Image.png"  width="540" height="440">   
+<img src="/images/Image.png"  width="440" height="140">   
