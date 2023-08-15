@@ -6,8 +6,7 @@ author_profile: true
 
 Please see the full list of my publications at [my Google Scholar profile](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en)
 
-## My forthcoming book ... "[Toolbox](https://yaydede.github.io/Toolbox/)"
-at [Chapman & Hall/CRC](https://www.routledge.com/go/chapman-hall?gclid=Cj0KCQjwy5maBhDdARIsAMxrkw0o5NiqLoLFGwTpyvTlcjWBUFoLZlvVD26oiAXpoHVWRNvVSIIGgEcaAlecEALw_wcB)
+## [Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R](https://www.routledge.com/Machine-Learning-Toolbox-for-Social-Scientists-Applied-Predictive-Analytics/Aydede/p/book/9781032463957?_gl=1*1h8se2d*_ga*NzgzODI2ODkzLjE2OTEyNjkzNDU.*_ga_0HYE8YG0M6*MTY5MjA5NTAwOS4xNS4xLjE2OTIwOTUwODkuMC4wLjA.)
    
 <img src="/images/CRC_cover.png"  width="140" height="190"> 
   
