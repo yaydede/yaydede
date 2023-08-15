@@ -5,14 +5,12 @@ excerpt: "MLPortal"
 author_profile: true
 ---
 
-[Research Portal on Machine Learning for Social and Health Policies](https://sites.google.com/view/mlportal/home) 
-
 ![](https://cdn.mathpix.com/snip/images/MJvBOjXHyB3E3ZZMocAO1gIszxL94_hjaRcrAwTRx94.original.fullsize.png)
 
-## About
 The portal (MLPortal) provides a hub for researchers who want to make machine learning methods more accessible in social and health science applications for better predictive and causal analyses. We hope to offer a platform for statistical learning by enhancing collaboration between academic circles, policy makers, and private enterprises by disseminating the knowledge that helps others in their works, projects, course offerings, and private applications.
 
-In 2018, in collaboration with two of my colleagues, I co-founded MLPortal. Under the umbrella of this research portal, we currently have ten researchers actively working on subjects that range from the prediction of chronic diseases using better surveillance systems to issues related to the design of a better selection process for immigration policies by providing policy makers with a recommender system.
+In 2018, in collaboration with two of my colleagues, I co-founded MLPortal. Under the umbrella of this research portal, we currently have ten researchers actively working on subjects that range from the prediction of chronic diseases using better surveillance systems to issues related to the design of a better selection process for immigration policies by providing policy makers with a recommender system.  
+[Research Portal on Machine Learning for Social and Health Policies](https://sites.google.com/view/mlportal/home) 
 
 ## Events
 
