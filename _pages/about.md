@@ -10,7 +10,7 @@ redirect_from:
 
 [Curriculum Vitae](http://yaydede.github.io/files/CV7.pdf) 
   
-I am a [Sobey](https://www.smu.ca/academics/sobey/sobey-professorships-and-chairs.html) professor in the Department of Economics at [Saint Mary's University](https://smu.ca) in beautiful Halifax.  Although most of my research is in the field of population economics, my current focus is on machine learning applications in social science, unconventional data, disease surveillance systems, and genomics.  I teach data analytics courses at undergraduate and graduate levels.
+I am the [Sobey](https://www.smu.ca/academics/sobey/sobey-professorships-and-chairs.html) Professor of Economics at [Saint Mary's University](https://smu.ca) in beautiful Halifax.  Although most of my research is in the field of population economics, my current focus is on machine learning applications in social science, unconventional data, disease surveillance systems, and genomics.  I teach data analytics courses at undergraduate and graduate levels.
   
 This Github page summarizes all my work including a draft version of my book, [Toolbox](https://yaydede.github.io/Toolbox/), my recent research, blogs about "anything useful", and teaching.
 
