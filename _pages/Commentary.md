@@ -15,6 +15,8 @@ author_profile: true
  
   
 ## Selected media coverage
+- [Speaking with CTV about viruses, and how they spread](https://atlantic.ctvnews.ca/video?clipId=2753801)
+- [SMU Professor Dr. Yigit Aydede examines virus spread in Nova Scotia](https://news.smu.ca/news/2023/8/23/smu-professor-examines-virus-spread-in-nova-scotia)
 - Dalhousie Univeristy - [Reimagine Nova Scotia: Learn and Work](https://raw.githack.com/yaydede/Blog_posts/main/learnandwork.pdf) 
 - Dalhousie Univeristy, Management - [What will a reimagined future look like for our province?](https://youtu.be/gVkREYSB3Ts)
 - ResearchNS - [Using machine learning to predict viral transmission rates in Halifax](https://researchns.ca/2020/05/26/using-machine-learning-to-predict-viral-transmission-rates-in-halifax/) 
