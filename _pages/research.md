@@ -29,12 +29,13 @@ Please see the full list of my publications at [my Google Scholar profile](https
  
 ## Work in progress
 Find more details in "[Talks](https://yaydede.github.io/Presentations/)" ...
-  
- - Understanding Commmunity-Level Vulnerabilities in Lyme Disease - Nova Scotia
+
+ - [Causal Discovery of Cancer with Sparsity](http://yaydede.github.io/files/Przo2.pdf) – SSHRC/RDC application is accepted.
+ - [Understanding Commmunity-Level Vulnerabilities in Lyme Disease - Nova Scotia](http://yaydede.github.io/files/Summary.pdf) 
  - Understanding the dynamics of a viral spread by sparse composite likelihood selection.
  - [Mobility and COVID-19 Spread: Solving the Puzzle](https://raw.githack.com/yaydede/Blog_posts/main/paper_v12.html) (Mutlu Yuksel). 
- - Predicting Respiratory Diseases by Social Media Extraction and Machine Learning (with Mutlu Yuksel). 
- - [Causal Predictors of Cancer by Sparsity (with MLportal)](https://raw.githack.com/yaydede/MLportal/main/Presentation1.pdf) – SSHRC/RDC application is accepted. 
+ - Predicting Respiratory Diseases by using 811 data in Nova Scotia. 
+ 
  
 
 
