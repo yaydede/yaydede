@@ -30,12 +30,11 @@ Please see the full list of my publications at [my Google Scholar profile](https
 ## Work in progress
 Find more details in "[Talks](https://yaydede.github.io/Presentations/)" ...
   
- - Application of “dominance analysis” with health data: Identifying regional spreaders of a viral pathogen and their socio-spatial predictors in Nova Scotia. (with Jan Ditzen)
+ - Understanding Commmunity-Level Vulnerabilities in Lyme Disease - Nova Scotia
  - Understanding the dynamics of a viral spread by sparse composite likelihood selection.
  - [Mobility and COVID-19 Spread: Solving the Puzzle](https://raw.githack.com/yaydede/Blog_posts/main/paper_v12.html) (Mutlu Yuksel). 
- - Predicting Bankruptcy by Using New Textual Features in Financial Statements (N. Kochetova, A. Boshanna). 
  - Predicting Respiratory Diseases by Social Media Extraction and Machine Learning (with Mutlu Yuksel). 
- - [Predicting Cancer by Using CCHS (with MLportal)](https://raw.githack.com/yaydede/MLportal/main/Presentation1.pdf) – SSHRC/RDC application is accepted. 
- - Predicting immigrants' hospital utilization based on the record of landing and tax data for pre-migration policies (Mutlu Yuksel, Mevlude Akbulut, Casey Warman).  
+ - [Causal Predictors of Cancer by Sparsity (with MLportal)](https://raw.githack.com/yaydede/MLportal/main/Presentation1.pdf) – SSHRC/RDC application is accepted. 
+ 
 
 
