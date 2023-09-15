@@ -34,7 +34,7 @@ Find more details in "[Talks](https://yaydede.github.io/Presentations/)" ...
  - [Understanding Commmunity-Level Vulnerabilities in Lyme Disease - Nova Scotia](http://yaydede.github.io/files/Summary.pdf) 
  - Understanding the dynamics of a viral spread by sparse composite likelihood selection.
  - [Mobility and COVID-19 Spread: Solving the Puzzle](https://raw.githack.com/yaydede/Blog_posts/main/paper_v12.html) (Mutlu Yuksel). 
- - Predicting Respiratory Diseases by using 811 data in Nova Scotia. 
+ - [Predicting Respiratory Diseases by using 811 data in Nova Scotia](http://yaydede.github.io/files/PredictingAsthma.pdf). 
  
  
 
