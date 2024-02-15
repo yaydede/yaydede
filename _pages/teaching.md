@@ -23,5 +23,8 @@ author_profile: true
 *Department of Economics, Fall 2022*
 
 ### R Bootcamp for Data Analytics
-
 [R Bootcamp](https://yaydede.github.io/Bootcamp_book/):  This online book covers basics to learn R for Data Science. It is designed for [Master of Business Analytics](https://www.smu.ca/mban/index.html) students.  It also has a companion R package, `RBootcamp`, containing the data sets used in the book as well as interactive exercises for each chapter.
+
+### Machine Learning from Scratch
+- [ROC & AUC](http://yaydede.github.io/files/tutorial0215.html) 
+ 
