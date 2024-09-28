@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae](http://yaydede.github.io/files/CV8.pdf) 
+[Curriculum Vitae](http://yaydede.github.io/files/CV1024.pdf) 
   
 I am the [Sobey](https://www.smu.ca/academics/sobey/sobey-professorships-and-chairs.html) Professor of Economics at [Saint Mary's University](https://smu.ca) in beautiful Halifax.  Although most of my research is in the field of population economics, my current focus is on machine learning applications in social science, unconventional data, disease surveillance systems, and genomics.  I teach data analytics courses at undergraduate and graduate levels.
   
