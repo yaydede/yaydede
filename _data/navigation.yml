@@ -3,9 +3,6 @@ main:
   - title: "Research"
     url: /Research/
 
-  - title: "Presentations"
-    url: /Presentations/    
-
   - title: "Teaching"
     url: /teaching/    
     
@@ -17,5 +14,3 @@ main:
     
   - title: "MLPortal"
     url: /MLPortal/
-    
-  

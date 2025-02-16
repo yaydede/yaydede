@@ -6,11 +6,13 @@ author_profile: true
 
 Please see the full list of my publications at [my Google Scholar profile](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en)
 
-## [Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R](https://www.routledge.com/Machine-Learning-Toolbox-for-Social-Scientists-Applied-Predictive-Analytics/Aydede/p/book/9781032463957?_gl=1*1h8se2d*_ga*NzgzODI2ODkzLjE2OTEyNjkzNDU.*_ga_0HYE8YG0M6*MTY5MjA5NTAwOS4xNS4xLjE2OTIwOTUwODkuMC4wLjA.)
+## Books
+- **[Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R](https://www.amazon.ca/Machine-Learning-Toolbox-Social-Scientists/dp/1032463953)** (Chapman & Hall/CRC, 2023)
+- **Causal Machine Learning for Econometrics** (Taylor & Francis, expected 2025)
    
-<img src="/images/CRC_cover.png"  width="140" height="190"> 
+
   
-## Recent publications
+## Selective publications
 
 - [Identifying the regional drivers of influenza-like illness in Nova Scotia, Canada, with dominance analysis](https://www.nature.com/articles/s41598-023-37184-z). 2023 Nature, Scientific Reports.
 - [Speeding up for a son in Turkey](https://www.tandfonline.com/eprint/8KCSCQPEYUPTIHXSYKQS/full?target=10.1080/02255189.2022.2145273). 2022 Canadian Journal of Development Studies.
@@ -20,22 +22,3 @@ Please see the full list of my publications at [my Google Scholar profile](https
 - [Assortative Preferences in Choice of Major](https://sciendo.com/it/article/10.2478/izajole-2020-0006) IZA Journal of Labor Economics 2020. 
 - [Is the lower return to immigrants’ foreign schooling a postarrival problem in Canada?](https://link.springer.com/article/10.1186/s40176-016-0076-9), 2017 IZA Journal of Migration.
 - [The cost of immigrants’ occupational mismatch and the effectiveness of postarrival policies in Canada](https://link.springer.com/article/10.1186/s40176-016-0057-z), 2016  IZA Journal of Migration.
-
-## Working papers
-
- - [Identifying the regional drivers of influenza-like illness in Nova Scotia with dominance analysis](https://arxiv.org/abs/2212.06684), (with Jan Ditzen) 12/2022.  
- - [Native-born-immigrant wage gap revisited: The role of market imperfections in Canada](https://clef.uwaterloo.ca/wp-content/uploads/2023/01/CLEF-050-2022.pdf), *Canadian Labour Economics Forum*, WP#50, 12/2022
- - [Dynamics of Social Mobility during the COVID19 Pandemic in Canada](https://www.iza.org/publications/dp/13376/dynamics-of-social-mobility-during-the-covid-19-pandemic-in-canada), (M.Yuksel and F.Begolli). *IZA Discussion Papers*, 13376. 06/2020.
- 
-## Work in progress
-Find more details in "[Talks](https://yaydede.github.io/Presentations/)" ...
-
- - [Causal Discovery of Cancer with Sparsity](http://yaydede.github.io/files/Przo2.pdf) – SSHRC/RDC application is accepted.
- - [Understanding Commmunity-Level Vulnerabilities in Lyme Disease - Nova Scotia](http://yaydede.github.io/files/Summary.pdf) - Obtaining the data from NSHA 
- - [Understanding the dynamics of a viral spread by sparse composite likelihood selection](http://yaydede.github.io/files/draft4.pdf) - Draft paper is ready
- - [Mobility and COVID-19 Spread: Solving the Puzzle](https://raw.githack.com/yaydede/Blog_posts/main/paper_v12.html). 
- - [Predicting Respiratory Diseases by using 811 data in Nova Scotia](http://yaydede.github.io/files/PredictingAsthma.pdf) - Obtaining the data from NSHA
- 
- 
-
-

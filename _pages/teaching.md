@@ -5,26 +5,13 @@ author_profile: true
 ---
 
 ### MBAN 5560 - Machine Learning & Artificial Intelligence 
-*[Master of Business Analytics](https://www.smu.ca/mban/index.html), April 2023*
+[Master of Business Analytics](https://www.smu.ca/mban/index.html), January 2025
   
-### MAE 6638 - Introduction to Applied Machine Learning with R
-*[Master of Applied Economics](https://www.smu.ca/academics/sobey/masters-in-applied-economics.html), Winter 2023*
-
 ### MFIN 6603 - Applied Statistics & Data Anaytics
-*[Master of Finance](https://www.smu.ca/academics/sobey/master-of-finance.html), November 2022*
+[Master of Finance](https://www.smu.ca/academics/sobey/master-of-finance.html), November 2024
 
-### MFIN 6609 - Econometrics & Business Forecasting
-*Master of Finance, April 2022*
-
-### ECON 4403 - Econometrics
-*Department of Economics, Winter 2023*
-
-### ECON 4498 - Research Topics
-*Department of Economics, Fall 2022*
-
-### R Bootcamp for Data Analytics
-[R Bootcamp](https://yaydede.github.io/Bootcamp_book/):  This online book covers basics to learn R for Data Science. It is designed for [Master of Business Analytics](https://www.smu.ca/mban/index.html) students.  It also has a companion R package, `RBootcamp`, containing the data sets used in the book as well as interactive exercises for each chapter.
-
-### Machine Learning from Scratch
-- [ROC & AUC](http://yaydede.github.io/files/tutorial0215.html) 
+### Few innovative examples used in teaching ML & AI
+- [R Bootcamp](https://yaydede.github.io/Bootcamp_book/)
+- [ROC & AUC](http://yaydede.github.io/files/tutorial0215.html)
+- [Dynamic Nonparametric Smoothing Visualization](https://jzmtko-yigit-aydede.shinyapps.io/app_folder/) 
  

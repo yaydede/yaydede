@@ -8,16 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-[Curriculum Vitae](http://yaydede.github.io/files/CV1024.pdf) 
-  
-I am the [Sobey](https://www.smu.ca/academics/sobey/sobey-professorships-and-chairs.html) Professor of Economics at [Saint Mary's University](https://smu.ca) in beautiful Halifax.  Although most of my research is in the field of population economics, my current focus is on machine learning applications in social science, unconventional data, disease surveillance systems, and genomics.  I teach data analytics courses at undergraduate and graduate levels.
-  
-This Github page summarizes all my work including a draft version of my book, [Toolbox](https://yaydede.github.io/Toolbox/), my recent research, blogs about "anything useful", and teaching.
+I am the [Sobey](https://www.smu.ca/academics/sobey/sobey-professorships-and-chairs.html) Professor of Economics at [Saint Mary's University](https://smu.ca). My research bridges econometrics with modern machine learning and artificial intelligence, focusing on unconventional data sources, public policy, and health analytics. I teach courses in data analytics, machine learning, and AI at both undergraduate and graduate levels.
 
-My book, [Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R](https://www.taylorfrancis.com/books/mono/10.1201/9781003381501/machine-learning-toolbox-social-scientists-yigit-aydede), is available for pre-order on [Amazon](https://www.amazon.ca/Machine-Learning-Toolbox-Social-Scientists-ebook/dp/B0CDP4HFLN/ref=sr_1_1?crid=1YA2X3E8OHAMV&keywords=yigit+aydede&qid=1691405871&sprefix=%2Caps%2C109&sr=8-1) and will be shipped after September 22, 2023.
-  
-<img src="/images/CRC_cover.png" width="240" height="340">  
-  
-I am also a co-founder of *Research Portal on Machine Learning for Social and Health Policies*, [MLPortal](https://yaydede.github.io/MLPortal/), where we orginize scholarly activities such as summer schools and workshops.  Our most recent workshop was on [Economists, Policymakers, and Health Data - A Collaborative Approach](https://yaydede.github.io/MLPortal/).
+I also serve as [Faculty in Residence](https://www.smu.ca/sobey/about/dr-yigit-aydede.html) at the Sobey School of Business and as an [Affiliate Scientist (Research)](https://innovationhub.nshealth.ca/partnering-nova-scotia-health-innovation-hub/scientific-affiliate-appointments) at Nova Scotia Health, contributing to interdisciplinary collaborations in health and social sciences.
 
-<img src="/images/Image.png"  width="440" height="240">   
+Beyond academia, I am the co-founder of [Novastorms.ai](https://novastorms.ai), an AI-driven startup providing real estate, neighborhood, and public safety insights in Nova Scotia. Our Agentic AI applications leverage advanced analytics to empower businesses, policymakers, and the public with real-time and historical data.
+
+---
+
+## Featured Work
+
+- **[Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R](https://www.amazon.ca/Machine-Learning-Toolbox-Social-Scientists/dp/1032463953)** (Chapman & Hall/CRC, 2023)
+- **Causal Machine Learning for Econometrics** (Taylor & Francis, expected 2025)
+- **Research Portal on Machine Learning for Social and Health Policies**: Organizing workshops and summer schools on AI applications ([MLPortal](https://yaydede.github.io/MLPortal/))
+
+---
+
+## Connect
+
+- [Google Scholar](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en)
+- [Saint Mary's University](https://www.smu.ca/academics/sobey/yigit-aydede.html)
+- [Novastorms.ai](https://novastorms.ai)
+
