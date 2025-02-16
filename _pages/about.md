@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am the [Sobey](https://www.smu.ca/academics/sobey/sobey-professorships-and-chairs.html) Professor of Economics at [Saint Mary's University](https://smu.ca). My research bridges econometrics with modern machine learning and artificial intelligence, focusing on unconventional data sources, public policy, and health analytics. I teach courses in data analytics, machine learning, and AI at both undergraduate and graduate levels.
+I am the Sobey Professor of Economics at Saint Mary's University. My research bridges econometrics with modern machine learning and artificial intelligence, focusing on unconventional data sources, public policy, and health analytics. I teach courses in data analytics, machine learning, and AI at both undergraduate and graduate levels.
 
 I also serve as [Faculty in Residence](https://www.smu.ca/sobey/about/dr-yigit-aydede.html) at the Sobey School of Business and as an [Affiliate Scientist (Research)](https://innovationhub.nshealth.ca/partnering-nova-scotia-health-innovation-hub/scientific-affiliate-appointments) at Nova Scotia Health, contributing to interdisciplinary collaborations in health and social sciences.
 
