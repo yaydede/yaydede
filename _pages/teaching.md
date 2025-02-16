@@ -10,7 +10,7 @@ author_profile: true
 ### MFIN 6603 - Applied Statistics & Data Anaytics
 [Master of Finance](https://www.smu.ca/academics/sobey/master-of-finance.html), November 2024
 
-### Few innovative examples used in teaching ML & AI
+### Few innovative teaching examples used in ML & AI
 - [R Bootcamp](https://yaydede.github.io/Bootcamp_book/)
 - [ROC & AUC](http://yaydede.github.io/files/tutorial0215.html)
 - [Dynamic Nonparametric Smoothing Visualization](https://jzmtko-yigit-aydede.shinyapps.io/app_folder/) 

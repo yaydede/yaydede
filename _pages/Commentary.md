@@ -1,20 +1,11 @@
 ---
 permalink: /Commentary/
-title: "My blog posts, media coverage, and anything usefull"
+title: "Selected media coverage"
 excerpt: "Commentary"
 author_profile: true
 ---
 
-## "Scratches ..."
-
-- [Predicting with Panel Data: Trainable Fixed Effects Models](https://raw.githack.com/yaydede/Blog_posts/main/PARMOD_v3.html) 
-- [Conventional Time Series EDA and ETS Forecasting](https://raw.githack.com/yaydede/Blog_posts/main/TimeSeries.html) 
-- [Identifying the Predictors of COVID-19 Spread by Ensemble Learning](https://raw.githack.com/yaydede/Blog_posts/main/Tree_v7.html) 
-- [Ontario COVID-19 EDA](https://raw.githack.com/yaydede/Blog_posts/main/EDA.html) 
-- [A Matrix Profile Analysis](https://raw.githack.com/yaydede/Blog_posts/main/MPA.html) 
  
-  
-## Selected media coverage
 - [Speaking with CTV about viruses, and how they spread](https://atlantic.ctvnews.ca/video?clipId=2753801)
 - [SMU Professor Dr. Yigit Aydede examines virus spread in Nova Scotia](https://news.smu.ca/news/2023/8/23/smu-professor-examines-virus-spread-in-nova-scotia)
 - Dalhousie Univeristy - [Reimagine Nova Scotia: Learn and Work](https://raw.githack.com/yaydede/Blog_posts/main/learnandwork.pdf) 
