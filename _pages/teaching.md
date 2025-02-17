@@ -19,4 +19,4 @@ author_profile: true
 - [Dynamic Nonparametric Smoothing Visualization](https://jzmtko-yigit-aydede.shinyapps.io/app_folder/) 
  
 ### Sobey Wokshop on the Use of NLP and LLMs in Social Science
-- 2-day workshop in August 2024: Please find the materials here: (https://github.com/yaydede/NLPWorkshop.git)
+- 2-day workshop in August 2024: Please find the materials here: [LLM Workshop](https://github.com/yaydede/NLPWorkshop.git)
