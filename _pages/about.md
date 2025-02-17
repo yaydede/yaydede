@@ -27,6 +27,5 @@ Beyond academia, I am the co-founder of [Novastorms.ai](https://novastorms.ai), 
 ## Connect
 
 - [Google Scholar](https://scholar.google.ca/citations?user=8M2YA1QAAAAJ&hl=en)
-- [Saint Mary's University](https://www.smu.ca/academics/sobey/yigit-aydede.html)
 - [Novastorms.ai](https://novastorms.ai)
 
