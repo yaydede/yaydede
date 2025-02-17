@@ -14,6 +14,10 @@ In 2018, in collaboration with two of my colleagues, I co-founded MLPortal. Unde
 
 ## Events
 
+### 3nd Workshop of Applied Microeconomics
+(In-person & Online - August 24-25, 2024, Halifax)
+
+
 ### 2nd Workshop of Applied Microeconomics
 (In-person & Online - August 10-11, 2023, Halifax)
 
