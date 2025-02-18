@@ -11,7 +11,7 @@ author_profile: true
 [Master of Finance](https://www.smu.ca/academics/sobey/master-of-finance.html), November 2024
 
 ### ECON 4403 - Econometrics
-[Master of Finance](https://smu-ca-public.courseleaf.com/undergraduate/programs/economics/), November 2024
+Since 2012
 
 ### Few innovative teaching examples used in ML & AI
 - [R Bootcamp](https://yaydede.github.io/Bootcamp_book/)
