@@ -8,7 +8,9 @@ author_profile: true
 ## About this book
 The book covers predictive methods with complementary statistical “tools” that make it self-contained.  This website is where I plan to include R/Python codes, suplementary applications, errata, and various new chapters.
 
-A draft version can be accessed here: [Toolbox](https://yaydede.github.io/toolbox/) 
+A draft version can be accessed here: [Toolbox](https://yaydede.github.io/toolbox/)  
+[Machine Learning Toolbox for Social Scientists: Applied Predictive Analytics with R](https://www.amazon.ca/Machine-Learning-Toolbox-Social-Scientists/dp/1032463953) (Chapman & Hall/CRC, 2023)
+
 
 ## Who is this book for?
 The "causal inference" is the traditional framework for most statistics courses in social science and business fields, especially in Economics and Finance. As I tried to look at “prediction” from economists’ perspective, the book has become a “toolbox” that many social science and business students can follow and understand predictive methods beyond standard machine learning “code” applications. 
